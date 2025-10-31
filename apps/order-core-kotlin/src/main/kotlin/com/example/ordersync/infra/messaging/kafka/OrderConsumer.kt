@@ -1,4 +1,4 @@
-package com.example.ordersync.kafka
+package com.example.ordersync.infra.messaging.kafka
 
 import org.slf4j.LoggerFactory
 import org.springframework.kafka.annotation.KafkaListener

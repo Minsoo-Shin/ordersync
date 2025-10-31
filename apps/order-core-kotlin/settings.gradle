@@ -1,1 +1,4 @@
 rootProject.name = 'order-core'
+
+include ':order-sync-common'
+project(':order-sync-common').projectDir = new File(settingsDir, '../../libs/kotlin/common')

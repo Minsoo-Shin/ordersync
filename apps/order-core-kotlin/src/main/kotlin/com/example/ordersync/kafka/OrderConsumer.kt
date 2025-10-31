@@ -9,7 +9,7 @@ class OrderConsumer {
 
 	private val logger = LoggerFactory.getLogger(OrderConsumer::class.java)
 
-	@KafkaListener(topics = ["orders"], groupId = "ordersync-group")
+	@KafkaListener(topics = ["orders"])
 	fun consumeOrder(message: String) {
 		logger.info("Received order message: $message")
 		// TODO: 주문 처리 로직 구현

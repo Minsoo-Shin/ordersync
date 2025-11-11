@@ -3,6 +3,8 @@ package com.example.ordersync.application.order
 import com.example.ordersync.domain.order.Order
 import com.example.ordersync.domain.order.OrderItem
 import com.example.ordersync.domain.order.OrderRepository
+import com.example.ordersync.event.OrderItemEvent
+import com.example.ordersync.infra.messaging.kafka.OrderProducer
 import org.springframework.stereotype.Service
 
 interface CreateOrderUseCase {
@@ -22,6 +24,7 @@ data class CreateOrderItemCommand(
 @Service
 class CreateOrderService(
     private val orderRepository: OrderRepository,
+    private val orderProducer: OrderProducer,
 ) : CreateOrderUseCase {
     override fun create(request: CreateOrderCommand): Long {
         val items: List<OrderItem> = request.items.map {
@@ -33,7 +36,18 @@ class CreateOrderService(
         }
         val order: Order = Order.create(items)
         val saved = orderRepository.save(order)
-        return saved.id!!
+        
+        // 이벤트 발행
+        val orderItemEvents = saved.items.map {
+            OrderItemEvent(
+                productId = it.productId,
+                quantity = it.quantity,
+                price = it.price
+            )
+        }
+        orderProducer.publishOrderCreated(saved.id!!, orderItemEvents)
+        
+        return saved.id
     }
 }
 

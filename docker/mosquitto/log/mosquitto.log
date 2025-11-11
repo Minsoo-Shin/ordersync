@@ -1,0 +1,2046 @@
+1762151975: mosquitto version 2.0.22 starting
+1762151975: Config loaded from /mosquitto/config/mosquitto.conf.
+1762151975: Opening ipv4 listen socket on port 1883.
+1762151975: Opening ipv6 listen socket on port 1883.
+1762151975: Opening websockets listen socket on port 9001.
+1762151975: mosquitto version 2.0.22 running
+1762151982: New connection from 192.168.65.1:24690 on port 1883.
+1762151983: New client connected from 192.168.65.1:24690 as device-bridge-mqtt-client (p2, c0, k60).
+1762151983: No will message specified.
+1762151983: Sending CONNACK to device-bridge-mqtt-client (0, 0)
+1762151983: Received DISCONNECT from device-bridge-mqtt-client
+1762151983: Client device-bridge-mqtt-client disconnected.
+1762152247: New connection from 192.168.65.1:23970 on port 1883.
+1762152247: New client connected from 192.168.65.1:23970 as device-bridge-mqtt-client (p2, c0, k60).
+1762152247: No will message specified.
+1762152247: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762152248: Received DISCONNECT from device-bridge-mqtt-client
+1762152248: Client device-bridge-mqtt-client disconnected.
+1762152970: New connection from 192.168.65.1:60624 on port 1883.
+1762152970: New client connected from 192.168.65.1:60624 as device-bridge-mqtt-client (p2, c0, k60).
+1762152970: No will message specified.
+1762152970: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762152971: Received DISCONNECT from device-bridge-mqtt-client
+1762152971: Client device-bridge-mqtt-client disconnected.
+1762153045: New connection from 192.168.65.1:53554 on port 1883.
+1762153045: New client connected from 192.168.65.1:53554 as device-bridge-mqtt-client (p2, c0, k60).
+1762153045: No will message specified.
+1762153045: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762153045: Received DISCONNECT from device-bridge-mqtt-client
+1762153045: Client device-bridge-mqtt-client disconnected.
+1762153287: New connection from 192.168.65.1:25222 on port 1883.
+1762153287: New client connected from 192.168.65.1:25222 as device-bridge-mqtt-client (p2, c0, k60).
+1762153287: No will message specified.
+1762153287: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762153287: Received DISCONNECT from device-bridge-mqtt-client
+1762153287: Client device-bridge-mqtt-client disconnected.
+1762153439: New connection from 192.168.65.1:56472 on port 1883.
+1762153439: New client connected from 192.168.65.1:56472 as device-bridge-mqtt-client (p2, c0, k60).
+1762153439: No will message specified.
+1762153439: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762153440: Received DISCONNECT from device-bridge-mqtt-client
+1762153440: Client device-bridge-mqtt-client disconnected.
+1762153552: New connection from 192.168.65.1:35940 on port 1883.
+1762153553: New client connected from 192.168.65.1:35940 as device-bridge-mqtt-client (p2, c0, k60).
+1762153553: No will message specified.
+1762153553: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762153554: Received DISCONNECT from device-bridge-mqtt-client
+1762153554: Client device-bridge-mqtt-client disconnected.
+1762153560: New connection from 192.168.65.1:48109 on port 1883.
+1762153560: New client connected from 192.168.65.1:48109 as device-bridge-mqtt-client (p2, c0, k60).
+1762153560: No will message specified.
+1762153560: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762153560: Received DISCONNECT from device-bridge-mqtt-client
+1762153560: Client device-bridge-mqtt-client disconnected.
+1762153633: New connection from 192.168.65.1:48193 on port 1883.
+1762153633: New client connected from 192.168.65.1:48193 as device-bridge-mqtt-client (p2, c0, k60).
+1762153633: No will message specified.
+1762153633: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762153634: Received DISCONNECT from device-bridge-mqtt-client
+1762153634: Client device-bridge-mqtt-client disconnected.
+1762153776: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762154789: New connection from 192.168.65.1:60910 on port 1883.
+1762154789: New client connected from 192.168.65.1:60910 as device-bridge-mqtt-client (p2, c0, k60).
+1762154789: No will message specified.
+1762154789: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762154790: Received DISCONNECT from device-bridge-mqtt-client
+1762154790: Client device-bridge-mqtt-client disconnected.
+1762155148: New connection from 192.168.65.1:47551 on port 1883.
+1762155149: New client connected from 192.168.65.1:47551 as device-bridge-mqtt-client (p2, c0, k60).
+1762155149: No will message specified.
+1762155149: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762155149: Received DISCONNECT from device-bridge-mqtt-client
+1762155149: Client device-bridge-mqtt-client disconnected.
+1762155232: New connection from 192.168.65.1:23252 on port 1883.
+1762155232: New client connected from 192.168.65.1:23252 as device-bridge-mqtt-client (p2, c0, k60).
+1762155232: No will message specified.
+1762155232: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762155232: Received DISCONNECT from device-bridge-mqtt-client
+1762155232: Client device-bridge-mqtt-client disconnected.
+1762155294: New connection from 192.168.65.1:28072 on port 1883.
+1762155294: New client connected from 192.168.65.1:28072 as device-bridge-mqtt-client (p2, c0, k60).
+1762155294: No will message specified.
+1762155294: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762155295: Received DISCONNECT from device-bridge-mqtt-client
+1762155295: Client device-bridge-mqtt-client disconnected.
+1762155355: New connection from 192.168.65.1:46565 on port 1883.
+1762155355: New client connected from 192.168.65.1:46565 as device-bridge-mqtt-client (p2, c0, k60).
+1762155355: No will message specified.
+1762155355: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762155356: Received DISCONNECT from device-bridge-mqtt-client
+1762155356: Client device-bridge-mqtt-client disconnected.
+1762155430: New connection from 192.168.65.1:64465 on port 1883.
+1762155430: New client connected from 192.168.65.1:64465 as device-bridge-mqtt-client (p2, c0, k60).
+1762155430: No will message specified.
+1762155430: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762155430: Received DISCONNECT from device-bridge-mqtt-client
+1762155430: Client device-bridge-mqtt-client disconnected.
+1762155577: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762155743: New connection from 192.168.65.1:56533 on port 1883.
+1762155743: New client connected from 192.168.65.1:56533 as device-bridge-mqtt-client (p2, c0, k60).
+1762155743: No will message specified.
+1762155743: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762155744: Received DISCONNECT from device-bridge-mqtt-client
+1762155744: Client device-bridge-mqtt-client disconnected.
+1762155829: New connection from 192.168.65.1:27457 on port 1883.
+1762155830: New client connected from 192.168.65.1:27457 as device-bridge-mqtt-client (p2, c0, k60).
+1762155830: No will message specified.
+1762155830: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762155830: Received DISCONNECT from device-bridge-mqtt-client
+1762155830: Client device-bridge-mqtt-client disconnected.
+1762155887: New connection from 192.168.65.1:44677 on port 1883.
+1762155887: New client connected from 192.168.65.1:44677 as device-bridge-mqtt-client (p2, c0, k60).
+1762155887: No will message specified.
+1762155887: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762155887: Received DISCONNECT from device-bridge-mqtt-client
+1762155887: Client device-bridge-mqtt-client disconnected.
+1762156008: New connection from 192.168.65.1:59919 on port 1883.
+1762156009: New client connected from 192.168.65.1:59919 as device-bridge-mqtt-client (p2, c0, k60).
+1762156009: No will message specified.
+1762156009: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762156009: Received DISCONNECT from device-bridge-mqtt-client
+1762156009: Client device-bridge-mqtt-client disconnected.
+1762156108: New connection from 192.168.65.1:33758 on port 1883.
+1762156109: New client connected from 192.168.65.1:33758 as device-bridge-mqtt-client (p2, c0, k60).
+1762156109: No will message specified.
+1762156109: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762156109: Received DISCONNECT from device-bridge-mqtt-client
+1762156109: Client device-bridge-mqtt-client disconnected.
+1762156130: New connection from 192.168.65.1:23161 on port 1883.
+1762156130: New client connected from 192.168.65.1:23161 as device-bridge-mqtt-client (p2, c0, k60).
+1762156130: No will message specified.
+1762156130: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762156131: Received DISCONNECT from device-bridge-mqtt-client
+1762156131: Client device-bridge-mqtt-client disconnected.
+1762156299: New connection from 192.168.65.1:42169 on port 1883.
+1762156300: New client connected from 192.168.65.1:42169 as device-bridge-mqtt-client (p2, c0, k60).
+1762156300: No will message specified.
+1762156300: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762156300: Received DISCONNECT from device-bridge-mqtt-client
+1762156300: Client device-bridge-mqtt-client disconnected.
+1762156367: New connection from 192.168.65.1:35791 on port 1883.
+1762156368: New client connected from 192.168.65.1:35791 as device-bridge-mqtt-client (p2, c0, k60).
+1762156368: No will message specified.
+1762156368: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762156382: Received DISCONNECT from device-bridge-mqtt-client
+1762156382: Client device-bridge-mqtt-client disconnected.
+1762156428: New connection from 192.168.65.1:41750 on port 1883.
+1762156428: New client connected from 192.168.65.1:41750 as device-bridge-mqtt-client (p2, c0, k60).
+1762156428: No will message specified.
+1762156428: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762156488: Received PINGREQ from device-bridge-mqtt-client
+1762156488: Sending PINGRESP to device-bridge-mqtt-client
+1762156548: Received PINGREQ from device-bridge-mqtt-client
+1762156548: Sending PINGRESP to device-bridge-mqtt-client
+1762156583: Received DISCONNECT from device-bridge-mqtt-client
+1762156583: Client device-bridge-mqtt-client disconnected.
+1762156603: New connection from 192.168.65.1:17341 on port 1883.
+1762156603: New client connected from 192.168.65.1:17341 as device-bridge-mqtt-client (p2, c0, k60).
+1762156603: No will message specified.
+1762156603: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762156664: Received PINGREQ from device-bridge-mqtt-client
+1762156664: Sending PINGRESP to device-bridge-mqtt-client
+1762156724: Received PINGREQ from device-bridge-mqtt-client
+1762156724: Sending PINGRESP to device-bridge-mqtt-client
+1762156784: Received PINGREQ from device-bridge-mqtt-client
+1762156784: Sending PINGRESP to device-bridge-mqtt-client
+1762156844: Received PINGREQ from device-bridge-mqtt-client
+1762156844: Sending PINGRESP to device-bridge-mqtt-client
+1762156904: Received PINGREQ from device-bridge-mqtt-client
+1762156904: Sending PINGRESP to device-bridge-mqtt-client
+1762156960: mosquitto version 2.0.22 terminating
+1762156960: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762157158: mosquitto version 2.0.22 starting
+1762157158: Config loaded from /mosquitto/config/mosquitto.conf.
+1762157158: Opening ipv4 listen socket on port 1883.
+1762157158: Opening ipv6 listen socket on port 1883.
+1762157158: Opening websockets listen socket on port 9001.
+1762157158: mosquitto version 2.0.22 running
+1762157215: New connection from 192.168.65.1:52949 on port 1883.
+1762157215: New client connected from 192.168.65.1:52949 as device-bridge-mqtt-client (p2, c0, k60).
+1762157215: No will message specified.
+1762157215: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762157240: Received DISCONNECT from device-bridge-mqtt-client
+1762157240: Client device-bridge-mqtt-client disconnected.
+1762157248: New connection from 192.168.65.1:47167 on port 1883.
+1762157248: New client connected from 192.168.65.1:47167 as device-bridge-mqtt-client (p2, c0, k60).
+1762157248: No will message specified.
+1762157248: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762157308: Received PINGREQ from device-bridge-mqtt-client
+1762157308: Sending PINGRESP to device-bridge-mqtt-client
+1762157329: New connection from 192.168.65.1:39803 on port 1883.
+1762157329: Client device-bridge-mqtt-client already connected, closing old connection.
+1762157329: New client connected from 192.168.65.1:39803 as device-bridge-mqtt-client (p2, c0, k60).
+1762157329: No will message specified.
+1762157329: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762157330: New connection from 192.168.65.1:50264 on port 1883.
+1762157331: Client device-bridge-mqtt-client already connected, closing old connection.
+1762157331: New client connected from 192.168.65.1:50264 as device-bridge-mqtt-client (p2, c0, k60).
+1762157331: No will message specified.
+1762157331: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762157332: New connection from 192.168.65.1:38507 on port 1883.
+1762157332: Client device-bridge-mqtt-client already connected, closing old connection.
+1762157332: New client connected from 192.168.65.1:38507 as device-bridge-mqtt-client (p2, c0, k60).
+1762157332: No will message specified.
+1762157332: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762157333: New connection from 192.168.65.1:47041 on port 1883.
+1762157333: Received DISCONNECT from device-bridge-mqtt-client
+1762157333: Client device-bridge-mqtt-client disconnected.
+1762157333: New client connected from 192.168.65.1:47041 as device-bridge-mqtt-client (p2, c0, k60).
+1762157333: No will message specified.
+1762157333: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762157386: New connection from 192.168.65.1:46157 on port 1883.
+1762157386: Client device-bridge-mqtt-client already connected, closing old connection.
+1762157386: New client connected from 192.168.65.1:46157 as device-bridge-mqtt-client (p2, c0, k60).
+1762157386: No will message specified.
+1762157386: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762157446: Received PINGREQ from device-bridge-mqtt-client
+1762157446: Sending PINGRESP to device-bridge-mqtt-client
+1762157506: Received PINGREQ from device-bridge-mqtt-client
+1762157506: Sending PINGRESP to device-bridge-mqtt-client
+1762157566: Received PINGREQ from device-bridge-mqtt-client
+1762157566: Sending PINGRESP to device-bridge-mqtt-client
+1762157626: Received PINGREQ from device-bridge-mqtt-client
+1762157626: Sending PINGRESP to device-bridge-mqtt-client
+1762157686: Received PINGREQ from device-bridge-mqtt-client
+1762157686: Sending PINGRESP to device-bridge-mqtt-client
+1762157746: Received PINGREQ from device-bridge-mqtt-client
+1762157746: Sending PINGRESP to device-bridge-mqtt-client
+1762157806: Received PINGREQ from device-bridge-mqtt-client
+1762157806: Sending PINGRESP to device-bridge-mqtt-client
+1762157866: Received PINGREQ from device-bridge-mqtt-client
+1762157866: Sending PINGRESP to device-bridge-mqtt-client
+1762157926: Received PINGREQ from device-bridge-mqtt-client
+1762157926: Sending PINGRESP to device-bridge-mqtt-client
+1762157986: Received PINGREQ from device-bridge-mqtt-client
+1762157986: Sending PINGRESP to device-bridge-mqtt-client
+1762158046: Received PINGREQ from device-bridge-mqtt-client
+1762158046: Sending PINGRESP to device-bridge-mqtt-client
+1762158106: Received PINGREQ from device-bridge-mqtt-client
+1762158106: Sending PINGRESP to device-bridge-mqtt-client
+1762158166: Received PINGREQ from device-bridge-mqtt-client
+1762158166: Sending PINGRESP to device-bridge-mqtt-client
+1762158226: Received PINGREQ from device-bridge-mqtt-client
+1762158226: Sending PINGRESP to device-bridge-mqtt-client
+1762158286: Received PINGREQ from device-bridge-mqtt-client
+1762158286: Sending PINGRESP to device-bridge-mqtt-client
+1762158346: Received PINGREQ from device-bridge-mqtt-client
+1762158346: Sending PINGRESP to device-bridge-mqtt-client
+1762158406: Received PINGREQ from device-bridge-mqtt-client
+1762158406: Sending PINGRESP to device-bridge-mqtt-client
+1762158466: Received PINGREQ from device-bridge-mqtt-client
+1762158466: Sending PINGRESP to device-bridge-mqtt-client
+1762158526: Received PINGREQ from device-bridge-mqtt-client
+1762158526: Sending PINGRESP to device-bridge-mqtt-client
+1762158586: Received PINGREQ from device-bridge-mqtt-client
+1762158586: Sending PINGRESP to device-bridge-mqtt-client
+1762158646: Received PINGREQ from device-bridge-mqtt-client
+1762158646: Sending PINGRESP to device-bridge-mqtt-client
+1762158706: Received PINGREQ from device-bridge-mqtt-client
+1762158706: Sending PINGRESP to device-bridge-mqtt-client
+1762158766: Received PINGREQ from device-bridge-mqtt-client
+1762158766: Sending PINGRESP to device-bridge-mqtt-client
+1762158826: Received PINGREQ from device-bridge-mqtt-client
+1762158826: Sending PINGRESP to device-bridge-mqtt-client
+1762158886: Received PINGREQ from device-bridge-mqtt-client
+1762158886: Sending PINGRESP to device-bridge-mqtt-client
+1762158946: Received PINGREQ from device-bridge-mqtt-client
+1762158946: Sending PINGRESP to device-bridge-mqtt-client
+1762158959: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762159006: Received PINGREQ from device-bridge-mqtt-client
+1762159006: Sending PINGRESP to device-bridge-mqtt-client
+1762159066: Received PINGREQ from device-bridge-mqtt-client
+1762159066: Sending PINGRESP to device-bridge-mqtt-client
+1762159126: Received PINGREQ from device-bridge-mqtt-client
+1762159126: Sending PINGRESP to device-bridge-mqtt-client
+1762159186: Received PINGREQ from device-bridge-mqtt-client
+1762159186: Sending PINGRESP to device-bridge-mqtt-client
+1762159246: Received PINGREQ from device-bridge-mqtt-client
+1762159246: Sending PINGRESP to device-bridge-mqtt-client
+1762159306: Received PINGREQ from device-bridge-mqtt-client
+1762159306: Sending PINGRESP to device-bridge-mqtt-client
+1762159366: Received PINGREQ from device-bridge-mqtt-client
+1762159366: Sending PINGRESP to device-bridge-mqtt-client
+1762159426: Received PINGREQ from device-bridge-mqtt-client
+1762159426: Sending PINGRESP to device-bridge-mqtt-client
+1762159486: Received PINGREQ from device-bridge-mqtt-client
+1762159486: Sending PINGRESP to device-bridge-mqtt-client
+1762159546: Received PINGREQ from device-bridge-mqtt-client
+1762159546: Sending PINGRESP to device-bridge-mqtt-client
+1762159606: Received PINGREQ from device-bridge-mqtt-client
+1762159606: Sending PINGRESP to device-bridge-mqtt-client
+1762159666: Received PINGREQ from device-bridge-mqtt-client
+1762159666: Sending PINGRESP to device-bridge-mqtt-client
+1762159726: Received PINGREQ from device-bridge-mqtt-client
+1762159726: Sending PINGRESP to device-bridge-mqtt-client
+1762159786: Received PINGREQ from device-bridge-mqtt-client
+1762159786: Sending PINGRESP to device-bridge-mqtt-client
+1762159846: Received PINGREQ from device-bridge-mqtt-client
+1762159846: Sending PINGRESP to device-bridge-mqtt-client
+1762159906: Received PINGREQ from device-bridge-mqtt-client
+1762159906: Sending PINGRESP to device-bridge-mqtt-client
+1762159966: Received PINGREQ from device-bridge-mqtt-client
+1762159966: Sending PINGRESP to device-bridge-mqtt-client
+1762160026: Received PINGREQ from device-bridge-mqtt-client
+1762160026: Sending PINGRESP to device-bridge-mqtt-client
+1762160086: Received PINGREQ from device-bridge-mqtt-client
+1762160086: Sending PINGRESP to device-bridge-mqtt-client
+1762160146: Received PINGREQ from device-bridge-mqtt-client
+1762160146: Sending PINGRESP to device-bridge-mqtt-client
+1762160206: Received PINGREQ from device-bridge-mqtt-client
+1762160206: Sending PINGRESP to device-bridge-mqtt-client
+1762160266: Received PINGREQ from device-bridge-mqtt-client
+1762160266: Sending PINGRESP to device-bridge-mqtt-client
+1762160326: Received PINGREQ from device-bridge-mqtt-client
+1762160326: Sending PINGRESP to device-bridge-mqtt-client
+1762160386: Received PINGREQ from device-bridge-mqtt-client
+1762160386: Sending PINGRESP to device-bridge-mqtt-client
+1762160446: Received PINGREQ from device-bridge-mqtt-client
+1762160446: Sending PINGRESP to device-bridge-mqtt-client
+1762160506: Received PINGREQ from device-bridge-mqtt-client
+1762160506: Sending PINGRESP to device-bridge-mqtt-client
+1762160566: Received PINGREQ from device-bridge-mqtt-client
+1762160566: Sending PINGRESP to device-bridge-mqtt-client
+1762160626: Received PINGREQ from device-bridge-mqtt-client
+1762160626: Sending PINGRESP to device-bridge-mqtt-client
+1762160686: Received PINGREQ from device-bridge-mqtt-client
+1762160686: Sending PINGRESP to device-bridge-mqtt-client
+1762160746: Received PINGREQ from device-bridge-mqtt-client
+1762160746: Sending PINGRESP to device-bridge-mqtt-client
+1762160760: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762160806: Received PINGREQ from device-bridge-mqtt-client
+1762160806: Sending PINGRESP to device-bridge-mqtt-client
+1762160866: Received PINGREQ from device-bridge-mqtt-client
+1762160866: Sending PINGRESP to device-bridge-mqtt-client
+1762160926: Received PINGREQ from device-bridge-mqtt-client
+1762160926: Sending PINGRESP to device-bridge-mqtt-client
+1762160987: Received PINGREQ from device-bridge-mqtt-client
+1762160987: Sending PINGRESP to device-bridge-mqtt-client
+1762161047: Received PINGREQ from device-bridge-mqtt-client
+1762161047: Sending PINGRESP to device-bridge-mqtt-client
+1762161107: Received PINGREQ from device-bridge-mqtt-client
+1762161107: Sending PINGRESP to device-bridge-mqtt-client
+1762161167: Received PINGREQ from device-bridge-mqtt-client
+1762161167: Sending PINGRESP to device-bridge-mqtt-client
+1762161227: Received PINGREQ from device-bridge-mqtt-client
+1762161227: Sending PINGRESP to device-bridge-mqtt-client
+1762161287: Received PINGREQ from device-bridge-mqtt-client
+1762161287: Sending PINGRESP to device-bridge-mqtt-client
+1762161347: Received PINGREQ from device-bridge-mqtt-client
+1762161347: Sending PINGRESP to device-bridge-mqtt-client
+1762161407: Received PINGREQ from device-bridge-mqtt-client
+1762161407: Sending PINGRESP to device-bridge-mqtt-client
+1762161467: Received PINGREQ from device-bridge-mqtt-client
+1762161467: Sending PINGRESP to device-bridge-mqtt-client
+1762161527: Received PINGREQ from device-bridge-mqtt-client
+1762161527: Sending PINGRESP to device-bridge-mqtt-client
+1762161587: Received PINGREQ from device-bridge-mqtt-client
+1762161587: Sending PINGRESP to device-bridge-mqtt-client
+1762161647: Received PINGREQ from device-bridge-mqtt-client
+1762161647: Sending PINGRESP to device-bridge-mqtt-client
+1762161707: Received PINGREQ from device-bridge-mqtt-client
+1762161707: Sending PINGRESP to device-bridge-mqtt-client
+1762161767: Received PINGREQ from device-bridge-mqtt-client
+1762161767: Sending PINGRESP to device-bridge-mqtt-client
+1762161827: Received PINGREQ from device-bridge-mqtt-client
+1762161827: Sending PINGRESP to device-bridge-mqtt-client
+1762161887: Received PINGREQ from device-bridge-mqtt-client
+1762161887: Sending PINGRESP to device-bridge-mqtt-client
+1762161947: Received PINGREQ from device-bridge-mqtt-client
+1762161947: Sending PINGRESP to device-bridge-mqtt-client
+1762162007: Received PINGREQ from device-bridge-mqtt-client
+1762162007: Sending PINGRESP to device-bridge-mqtt-client
+1762162067: Received PINGREQ from device-bridge-mqtt-client
+1762162067: Sending PINGRESP to device-bridge-mqtt-client
+1762162127: Received PINGREQ from device-bridge-mqtt-client
+1762162127: Sending PINGRESP to device-bridge-mqtt-client
+1762162187: Received PINGREQ from device-bridge-mqtt-client
+1762162187: Sending PINGRESP to device-bridge-mqtt-client
+1762162247: Received PINGREQ from device-bridge-mqtt-client
+1762162247: Sending PINGRESP to device-bridge-mqtt-client
+1762162307: Received PINGREQ from device-bridge-mqtt-client
+1762162307: Sending PINGRESP to device-bridge-mqtt-client
+1762162367: Received PINGREQ from device-bridge-mqtt-client
+1762162367: Sending PINGRESP to device-bridge-mqtt-client
+1762162427: Received PINGREQ from device-bridge-mqtt-client
+1762162427: Sending PINGRESP to device-bridge-mqtt-client
+1762162487: Received PINGREQ from device-bridge-mqtt-client
+1762162487: Sending PINGRESP to device-bridge-mqtt-client
+1762162547: Received PINGREQ from device-bridge-mqtt-client
+1762162547: Sending PINGRESP to device-bridge-mqtt-client
+1762162561: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762162607: Received PINGREQ from device-bridge-mqtt-client
+1762162607: Sending PINGRESP to device-bridge-mqtt-client
+1762162667: Received PINGREQ from device-bridge-mqtt-client
+1762162667: Sending PINGRESP to device-bridge-mqtt-client
+1762162727: Received PINGREQ from device-bridge-mqtt-client
+1762162727: Sending PINGRESP to device-bridge-mqtt-client
+1762162787: Received PINGREQ from device-bridge-mqtt-client
+1762162787: Sending PINGRESP to device-bridge-mqtt-client
+1762162847: Received PINGREQ from device-bridge-mqtt-client
+1762162847: Sending PINGRESP to device-bridge-mqtt-client
+1762162907: Received PINGREQ from device-bridge-mqtt-client
+1762162907: Sending PINGRESP to device-bridge-mqtt-client
+1762162967: Received PINGREQ from device-bridge-mqtt-client
+1762162967: Sending PINGRESP to device-bridge-mqtt-client
+1762163027: Received PINGREQ from device-bridge-mqtt-client
+1762163027: Sending PINGRESP to device-bridge-mqtt-client
+1762163087: Received PINGREQ from device-bridge-mqtt-client
+1762163087: Sending PINGRESP to device-bridge-mqtt-client
+1762163147: Received PINGREQ from device-bridge-mqtt-client
+1762163147: Sending PINGRESP to device-bridge-mqtt-client
+1762163207: Received PINGREQ from device-bridge-mqtt-client
+1762163207: Sending PINGRESP to device-bridge-mqtt-client
+1762163267: Received PINGREQ from device-bridge-mqtt-client
+1762163267: Sending PINGRESP to device-bridge-mqtt-client
+1762163327: Received PINGREQ from device-bridge-mqtt-client
+1762163327: Sending PINGRESP to device-bridge-mqtt-client
+1762163387: Received PINGREQ from device-bridge-mqtt-client
+1762163387: Sending PINGRESP to device-bridge-mqtt-client
+1762163447: Received PINGREQ from device-bridge-mqtt-client
+1762163447: Sending PINGRESP to device-bridge-mqtt-client
+1762163507: Received PINGREQ from device-bridge-mqtt-client
+1762163507: Sending PINGRESP to device-bridge-mqtt-client
+1762163567: Received PINGREQ from device-bridge-mqtt-client
+1762163567: Sending PINGRESP to device-bridge-mqtt-client
+1762163627: Received PINGREQ from device-bridge-mqtt-client
+1762163627: Sending PINGRESP to device-bridge-mqtt-client
+1762163687: Received PINGREQ from device-bridge-mqtt-client
+1762163687: Sending PINGRESP to device-bridge-mqtt-client
+1762163747: Received PINGREQ from device-bridge-mqtt-client
+1762163747: Sending PINGRESP to device-bridge-mqtt-client
+1762163807: Received PINGREQ from device-bridge-mqtt-client
+1762163807: Sending PINGRESP to device-bridge-mqtt-client
+1762163867: Received PINGREQ from device-bridge-mqtt-client
+1762163867: Sending PINGRESP to device-bridge-mqtt-client
+1762163927: Received PINGREQ from device-bridge-mqtt-client
+1762163927: Sending PINGRESP to device-bridge-mqtt-client
+1762163987: Received PINGREQ from device-bridge-mqtt-client
+1762163987: Sending PINGRESP to device-bridge-mqtt-client
+1762164047: Received PINGREQ from device-bridge-mqtt-client
+1762164047: Sending PINGRESP to device-bridge-mqtt-client
+1762164107: Received PINGREQ from device-bridge-mqtt-client
+1762164107: Sending PINGRESP to device-bridge-mqtt-client
+1762164167: Received PINGREQ from device-bridge-mqtt-client
+1762164167: Sending PINGRESP to device-bridge-mqtt-client
+1762164227: Received PINGREQ from device-bridge-mqtt-client
+1762164227: Sending PINGRESP to device-bridge-mqtt-client
+1762164287: Received PINGREQ from device-bridge-mqtt-client
+1762164287: Sending PINGRESP to device-bridge-mqtt-client
+1762164347: Received PINGREQ from device-bridge-mqtt-client
+1762164347: Sending PINGRESP to device-bridge-mqtt-client
+1762164362: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762164407: Received PINGREQ from device-bridge-mqtt-client
+1762164407: Sending PINGRESP to device-bridge-mqtt-client
+1762164467: Received PINGREQ from device-bridge-mqtt-client
+1762164467: Sending PINGRESP to device-bridge-mqtt-client
+1762164527: Received PINGREQ from device-bridge-mqtt-client
+1762164527: Sending PINGRESP to device-bridge-mqtt-client
+1762164587: Received PINGREQ from device-bridge-mqtt-client
+1762164587: Sending PINGRESP to device-bridge-mqtt-client
+1762164647: Received PINGREQ from device-bridge-mqtt-client
+1762164647: Sending PINGRESP to device-bridge-mqtt-client
+1762164707: Received PINGREQ from device-bridge-mqtt-client
+1762164707: Sending PINGRESP to device-bridge-mqtt-client
+1762164767: Received PINGREQ from device-bridge-mqtt-client
+1762164767: Sending PINGRESP to device-bridge-mqtt-client
+1762164827: Received PINGREQ from device-bridge-mqtt-client
+1762164827: Sending PINGRESP to device-bridge-mqtt-client
+1762164887: Received PINGREQ from device-bridge-mqtt-client
+1762164887: Sending PINGRESP to device-bridge-mqtt-client
+1762164947: Received PINGREQ from device-bridge-mqtt-client
+1762164947: Sending PINGRESP to device-bridge-mqtt-client
+1762165007: Received PINGREQ from device-bridge-mqtt-client
+1762165007: Sending PINGRESP to device-bridge-mqtt-client
+1762165067: Received PINGREQ from device-bridge-mqtt-client
+1762165067: Sending PINGRESP to device-bridge-mqtt-client
+1762165127: Received PINGREQ from device-bridge-mqtt-client
+1762165127: Sending PINGRESP to device-bridge-mqtt-client
+1762165187: Received PINGREQ from device-bridge-mqtt-client
+1762165187: Sending PINGRESP to device-bridge-mqtt-client
+1762165247: Received PINGREQ from device-bridge-mqtt-client
+1762165247: Sending PINGRESP to device-bridge-mqtt-client
+1762165307: Received PINGREQ from device-bridge-mqtt-client
+1762165307: Sending PINGRESP to device-bridge-mqtt-client
+1762165367: Received PINGREQ from device-bridge-mqtt-client
+1762165367: Sending PINGRESP to device-bridge-mqtt-client
+1762165427: Received PINGREQ from device-bridge-mqtt-client
+1762165427: Sending PINGRESP to device-bridge-mqtt-client
+1762165487: Received PINGREQ from device-bridge-mqtt-client
+1762165487: Sending PINGRESP to device-bridge-mqtt-client
+1762165547: Received PINGREQ from device-bridge-mqtt-client
+1762165547: Sending PINGRESP to device-bridge-mqtt-client
+1762165607: Received PINGREQ from device-bridge-mqtt-client
+1762165607: Sending PINGRESP to device-bridge-mqtt-client
+1762165667: Received PINGREQ from device-bridge-mqtt-client
+1762165667: Sending PINGRESP to device-bridge-mqtt-client
+1762165727: Received PINGREQ from device-bridge-mqtt-client
+1762165727: Sending PINGRESP to device-bridge-mqtt-client
+1762165787: Received PINGREQ from device-bridge-mqtt-client
+1762165787: Sending PINGRESP to device-bridge-mqtt-client
+1762165847: Received PINGREQ from device-bridge-mqtt-client
+1762165847: Sending PINGRESP to device-bridge-mqtt-client
+1762165907: Received PINGREQ from device-bridge-mqtt-client
+1762165907: Sending PINGRESP to device-bridge-mqtt-client
+1762165967: Received PINGREQ from device-bridge-mqtt-client
+1762165967: Sending PINGRESP to device-bridge-mqtt-client
+1762166027: Received PINGREQ from device-bridge-mqtt-client
+1762166027: Sending PINGRESP to device-bridge-mqtt-client
+1762166087: Received PINGREQ from device-bridge-mqtt-client
+1762166087: Sending PINGRESP to device-bridge-mqtt-client
+1762166147: Received PINGREQ from device-bridge-mqtt-client
+1762166147: Sending PINGRESP to device-bridge-mqtt-client
+1762166163: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762166207: Received PINGREQ from device-bridge-mqtt-client
+1762166207: Sending PINGRESP to device-bridge-mqtt-client
+1762166267: Received PINGREQ from device-bridge-mqtt-client
+1762166267: Sending PINGRESP to device-bridge-mqtt-client
+1762166327: Received PINGREQ from device-bridge-mqtt-client
+1762166327: Sending PINGRESP to device-bridge-mqtt-client
+1762166387: Received PINGREQ from device-bridge-mqtt-client
+1762166387: Sending PINGRESP to device-bridge-mqtt-client
+1762166447: Received PINGREQ from device-bridge-mqtt-client
+1762166447: Sending PINGRESP to device-bridge-mqtt-client
+1762166507: Received PINGREQ from device-bridge-mqtt-client
+1762166507: Sending PINGRESP to device-bridge-mqtt-client
+1762166567: Received PINGREQ from device-bridge-mqtt-client
+1762166567: Sending PINGRESP to device-bridge-mqtt-client
+1762166627: Received PINGREQ from device-bridge-mqtt-client
+1762166627: Sending PINGRESP to device-bridge-mqtt-client
+1762166687: Received PINGREQ from device-bridge-mqtt-client
+1762166687: Sending PINGRESP to device-bridge-mqtt-client
+1762166747: Received PINGREQ from device-bridge-mqtt-client
+1762166747: Sending PINGRESP to device-bridge-mqtt-client
+1762166807: Received PINGREQ from device-bridge-mqtt-client
+1762166807: Sending PINGRESP to device-bridge-mqtt-client
+1762166867: Received PINGREQ from device-bridge-mqtt-client
+1762166867: Sending PINGRESP to device-bridge-mqtt-client
+1762166927: Received PINGREQ from device-bridge-mqtt-client
+1762166927: Sending PINGRESP to device-bridge-mqtt-client
+1762166987: Received PINGREQ from device-bridge-mqtt-client
+1762166987: Sending PINGRESP to device-bridge-mqtt-client
+1762167047: Received PINGREQ from device-bridge-mqtt-client
+1762167047: Sending PINGRESP to device-bridge-mqtt-client
+1762167107: Received PINGREQ from device-bridge-mqtt-client
+1762167107: Sending PINGRESP to device-bridge-mqtt-client
+1762167167: Received PINGREQ from device-bridge-mqtt-client
+1762167167: Sending PINGRESP to device-bridge-mqtt-client
+1762167227: Received PINGREQ from device-bridge-mqtt-client
+1762167227: Sending PINGRESP to device-bridge-mqtt-client
+1762167287: Received PINGREQ from device-bridge-mqtt-client
+1762167287: Sending PINGRESP to device-bridge-mqtt-client
+1762167347: Received PINGREQ from device-bridge-mqtt-client
+1762167347: Sending PINGRESP to device-bridge-mqtt-client
+1762167407: Received PINGREQ from device-bridge-mqtt-client
+1762167407: Sending PINGRESP to device-bridge-mqtt-client
+1762167467: Received PINGREQ from device-bridge-mqtt-client
+1762167467: Sending PINGRESP to device-bridge-mqtt-client
+1762167527: Received PINGREQ from device-bridge-mqtt-client
+1762167527: Sending PINGRESP to device-bridge-mqtt-client
+1762167587: Received PINGREQ from device-bridge-mqtt-client
+1762167587: Sending PINGRESP to device-bridge-mqtt-client
+1762167647: Received PINGREQ from device-bridge-mqtt-client
+1762167647: Sending PINGRESP to device-bridge-mqtt-client
+1762167707: Received PINGREQ from device-bridge-mqtt-client
+1762167707: Sending PINGRESP to device-bridge-mqtt-client
+1762167767: Received PINGREQ from device-bridge-mqtt-client
+1762167767: Sending PINGRESP to device-bridge-mqtt-client
+1762167827: Received PINGREQ from device-bridge-mqtt-client
+1762167827: Sending PINGRESP to device-bridge-mqtt-client
+1762167887: Received PINGREQ from device-bridge-mqtt-client
+1762167887: Sending PINGRESP to device-bridge-mqtt-client
+1762167947: Received PINGREQ from device-bridge-mqtt-client
+1762167947: Sending PINGRESP to device-bridge-mqtt-client
+1762167964: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762168007: Received PINGREQ from device-bridge-mqtt-client
+1762168007: Sending PINGRESP to device-bridge-mqtt-client
+1762168067: Received PINGREQ from device-bridge-mqtt-client
+1762168067: Sending PINGRESP to device-bridge-mqtt-client
+1762168127: Received PINGREQ from device-bridge-mqtt-client
+1762168127: Sending PINGRESP to device-bridge-mqtt-client
+1762168187: Received PINGREQ from device-bridge-mqtt-client
+1762168187: Sending PINGRESP to device-bridge-mqtt-client
+1762168247: Received PINGREQ from device-bridge-mqtt-client
+1762168247: Sending PINGRESP to device-bridge-mqtt-client
+1762168307: Received PINGREQ from device-bridge-mqtt-client
+1762168307: Sending PINGRESP to device-bridge-mqtt-client
+1762168367: Received PINGREQ from device-bridge-mqtt-client
+1762168367: Sending PINGRESP to device-bridge-mqtt-client
+1762168427: Received PINGREQ from device-bridge-mqtt-client
+1762168427: Sending PINGRESP to device-bridge-mqtt-client
+1762168488: Received PINGREQ from device-bridge-mqtt-client
+1762168488: Sending PINGRESP to device-bridge-mqtt-client
+1762168548: Received PINGREQ from device-bridge-mqtt-client
+1762168548: Sending PINGRESP to device-bridge-mqtt-client
+1762168608: Received PINGREQ from device-bridge-mqtt-client
+1762168608: Sending PINGRESP to device-bridge-mqtt-client
+1762168668: Received PINGREQ from device-bridge-mqtt-client
+1762168668: Sending PINGRESP to device-bridge-mqtt-client
+1762168728: Received PINGREQ from device-bridge-mqtt-client
+1762168728: Sending PINGRESP to device-bridge-mqtt-client
+1762168788: Received PINGREQ from device-bridge-mqtt-client
+1762168788: Sending PINGRESP to device-bridge-mqtt-client
+1762168848: Received PINGREQ from device-bridge-mqtt-client
+1762168848: Sending PINGRESP to device-bridge-mqtt-client
+1762168908: Received PINGREQ from device-bridge-mqtt-client
+1762168908: Sending PINGRESP to device-bridge-mqtt-client
+1762168968: Received PINGREQ from device-bridge-mqtt-client
+1762168968: Sending PINGRESP to device-bridge-mqtt-client
+1762169028: Received PINGREQ from device-bridge-mqtt-client
+1762169028: Sending PINGRESP to device-bridge-mqtt-client
+1762169088: Received PINGREQ from device-bridge-mqtt-client
+1762169088: Sending PINGRESP to device-bridge-mqtt-client
+1762169148: Received PINGREQ from device-bridge-mqtt-client
+1762169148: Sending PINGRESP to device-bridge-mqtt-client
+1762169208: Received PINGREQ from device-bridge-mqtt-client
+1762169208: Sending PINGRESP to device-bridge-mqtt-client
+1762169268: Received PINGREQ from device-bridge-mqtt-client
+1762169268: Sending PINGRESP to device-bridge-mqtt-client
+1762169328: Received PINGREQ from device-bridge-mqtt-client
+1762169328: Sending PINGRESP to device-bridge-mqtt-client
+1762169388: Received PINGREQ from device-bridge-mqtt-client
+1762169388: Sending PINGRESP to device-bridge-mqtt-client
+1762169448: Received PINGREQ from device-bridge-mqtt-client
+1762169448: Sending PINGRESP to device-bridge-mqtt-client
+1762169508: Received PINGREQ from device-bridge-mqtt-client
+1762169508: Sending PINGRESP to device-bridge-mqtt-client
+1762169568: Received PINGREQ from device-bridge-mqtt-client
+1762169568: Sending PINGRESP to device-bridge-mqtt-client
+1762169628: Received PINGREQ from device-bridge-mqtt-client
+1762169628: Sending PINGRESP to device-bridge-mqtt-client
+1762169688: Received PINGREQ from device-bridge-mqtt-client
+1762169688: Sending PINGRESP to device-bridge-mqtt-client
+1762169748: Received PINGREQ from device-bridge-mqtt-client
+1762169748: Sending PINGRESP to device-bridge-mqtt-client
+1762169765: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762169808: Received PINGREQ from device-bridge-mqtt-client
+1762169808: Sending PINGRESP to device-bridge-mqtt-client
+1762169868: Received PINGREQ from device-bridge-mqtt-client
+1762169868: Sending PINGRESP to device-bridge-mqtt-client
+1762169928: Received PINGREQ from device-bridge-mqtt-client
+1762169928: Sending PINGRESP to device-bridge-mqtt-client
+1762169988: Received PINGREQ from device-bridge-mqtt-client
+1762169988: Sending PINGRESP to device-bridge-mqtt-client
+1762170048: Received PINGREQ from device-bridge-mqtt-client
+1762170048: Sending PINGRESP to device-bridge-mqtt-client
+1762170108: Received PINGREQ from device-bridge-mqtt-client
+1762170108: Sending PINGRESP to device-bridge-mqtt-client
+1762170168: Received PINGREQ from device-bridge-mqtt-client
+1762170168: Sending PINGRESP to device-bridge-mqtt-client
+1762170228: Received PINGREQ from device-bridge-mqtt-client
+1762170228: Sending PINGRESP to device-bridge-mqtt-client
+1762170288: Received PINGREQ from device-bridge-mqtt-client
+1762170288: Sending PINGRESP to device-bridge-mqtt-client
+1762170348: Received PINGREQ from device-bridge-mqtt-client
+1762170348: Sending PINGRESP to device-bridge-mqtt-client
+1762170408: Received PINGREQ from device-bridge-mqtt-client
+1762170408: Sending PINGRESP to device-bridge-mqtt-client
+1762170468: Received PINGREQ from device-bridge-mqtt-client
+1762170468: Sending PINGRESP to device-bridge-mqtt-client
+1762170528: Received PINGREQ from device-bridge-mqtt-client
+1762170528: Sending PINGRESP to device-bridge-mqtt-client
+1762170588: Received PINGREQ from device-bridge-mqtt-client
+1762170588: Sending PINGRESP to device-bridge-mqtt-client
+1762170648: Received PINGREQ from device-bridge-mqtt-client
+1762170648: Sending PINGRESP to device-bridge-mqtt-client
+1762170708: Received PINGREQ from device-bridge-mqtt-client
+1762170708: Sending PINGRESP to device-bridge-mqtt-client
+1762170768: Received PINGREQ from device-bridge-mqtt-client
+1762170768: Sending PINGRESP to device-bridge-mqtt-client
+1762170828: Received PINGREQ from device-bridge-mqtt-client
+1762170828: Sending PINGRESP to device-bridge-mqtt-client
+1762170888: Received PINGREQ from device-bridge-mqtt-client
+1762170888: Sending PINGRESP to device-bridge-mqtt-client
+1762170948: Received PINGREQ from device-bridge-mqtt-client
+1762170948: Sending PINGRESP to device-bridge-mqtt-client
+1762171008: Received PINGREQ from device-bridge-mqtt-client
+1762171008: Sending PINGRESP to device-bridge-mqtt-client
+1762171068: Received PINGREQ from device-bridge-mqtt-client
+1762171068: Sending PINGRESP to device-bridge-mqtt-client
+1762171128: Received PINGREQ from device-bridge-mqtt-client
+1762171128: Sending PINGRESP to device-bridge-mqtt-client
+1762171188: Received PINGREQ from device-bridge-mqtt-client
+1762171188: Sending PINGRESP to device-bridge-mqtt-client
+1762171248: Received PINGREQ from device-bridge-mqtt-client
+1762171248: Sending PINGRESP to device-bridge-mqtt-client
+1762171308: Received PINGREQ from device-bridge-mqtt-client
+1762171308: Sending PINGRESP to device-bridge-mqtt-client
+1762171368: Received PINGREQ from device-bridge-mqtt-client
+1762171368: Sending PINGRESP to device-bridge-mqtt-client
+1762171428: Received PINGREQ from device-bridge-mqtt-client
+1762171428: Sending PINGRESP to device-bridge-mqtt-client
+1762171488: Received PINGREQ from device-bridge-mqtt-client
+1762171488: Sending PINGRESP to device-bridge-mqtt-client
+1762171548: Received PINGREQ from device-bridge-mqtt-client
+1762171548: Sending PINGRESP to device-bridge-mqtt-client
+1762171566: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762171608: Received PINGREQ from device-bridge-mqtt-client
+1762171608: Sending PINGRESP to device-bridge-mqtt-client
+1762171668: Received PINGREQ from device-bridge-mqtt-client
+1762171668: Sending PINGRESP to device-bridge-mqtt-client
+1762171728: Received PINGREQ from device-bridge-mqtt-client
+1762171728: Sending PINGRESP to device-bridge-mqtt-client
+1762171788: Received PINGREQ from device-bridge-mqtt-client
+1762171788: Sending PINGRESP to device-bridge-mqtt-client
+1762171848: Received PINGREQ from device-bridge-mqtt-client
+1762171848: Sending PINGRESP to device-bridge-mqtt-client
+1762171908: Received PINGREQ from device-bridge-mqtt-client
+1762171908: Sending PINGRESP to device-bridge-mqtt-client
+1762171968: Received PINGREQ from device-bridge-mqtt-client
+1762171968: Sending PINGRESP to device-bridge-mqtt-client
+1762172028: Received PINGREQ from device-bridge-mqtt-client
+1762172028: Sending PINGRESP to device-bridge-mqtt-client
+1762172088: Received PINGREQ from device-bridge-mqtt-client
+1762172088: Sending PINGRESP to device-bridge-mqtt-client
+1762172148: Received PINGREQ from device-bridge-mqtt-client
+1762172148: Sending PINGRESP to device-bridge-mqtt-client
+1762172208: Received PINGREQ from device-bridge-mqtt-client
+1762172208: Sending PINGRESP to device-bridge-mqtt-client
+1762172268: Received PINGREQ from device-bridge-mqtt-client
+1762172268: Sending PINGRESP to device-bridge-mqtt-client
+1762172328: Received PINGREQ from device-bridge-mqtt-client
+1762172328: Sending PINGRESP to device-bridge-mqtt-client
+1762172388: Received PINGREQ from device-bridge-mqtt-client
+1762172388: Sending PINGRESP to device-bridge-mqtt-client
+1762172448: Received PINGREQ from device-bridge-mqtt-client
+1762172448: Sending PINGRESP to device-bridge-mqtt-client
+1762172508: Received PINGREQ from device-bridge-mqtt-client
+1762172508: Sending PINGRESP to device-bridge-mqtt-client
+1762172568: Received PINGREQ from device-bridge-mqtt-client
+1762172568: Sending PINGRESP to device-bridge-mqtt-client
+1762172628: Received PINGREQ from device-bridge-mqtt-client
+1762172628: Sending PINGRESP to device-bridge-mqtt-client
+1762172688: Received PINGREQ from device-bridge-mqtt-client
+1762172688: Sending PINGRESP to device-bridge-mqtt-client
+1762172748: Received PINGREQ from device-bridge-mqtt-client
+1762172748: Sending PINGRESP to device-bridge-mqtt-client
+1762172808: Received PINGREQ from device-bridge-mqtt-client
+1762172808: Sending PINGRESP to device-bridge-mqtt-client
+1762172868: Received PINGREQ from device-bridge-mqtt-client
+1762172868: Sending PINGRESP to device-bridge-mqtt-client
+1762172928: Received PINGREQ from device-bridge-mqtt-client
+1762172928: Sending PINGRESP to device-bridge-mqtt-client
+1762172988: Received PINGREQ from device-bridge-mqtt-client
+1762172988: Sending PINGRESP to device-bridge-mqtt-client
+1762173048: Received PINGREQ from device-bridge-mqtt-client
+1762173048: Sending PINGRESP to device-bridge-mqtt-client
+1762173108: Received PINGREQ from device-bridge-mqtt-client
+1762173108: Sending PINGRESP to device-bridge-mqtt-client
+1762173168: Received PINGREQ from device-bridge-mqtt-client
+1762173168: Sending PINGRESP to device-bridge-mqtt-client
+1762173228: Received PINGREQ from device-bridge-mqtt-client
+1762173228: Sending PINGRESP to device-bridge-mqtt-client
+1762173288: Received PINGREQ from device-bridge-mqtt-client
+1762173288: Sending PINGRESP to device-bridge-mqtt-client
+1762173348: Received PINGREQ from device-bridge-mqtt-client
+1762173348: Sending PINGRESP to device-bridge-mqtt-client
+1762173367: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762173408: Received PINGREQ from device-bridge-mqtt-client
+1762173408: Sending PINGRESP to device-bridge-mqtt-client
+1762173468: Received PINGREQ from device-bridge-mqtt-client
+1762173468: Sending PINGRESP to device-bridge-mqtt-client
+1762173528: Received PINGREQ from device-bridge-mqtt-client
+1762173528: Sending PINGRESP to device-bridge-mqtt-client
+1762173588: Received PINGREQ from device-bridge-mqtt-client
+1762173588: Sending PINGRESP to device-bridge-mqtt-client
+1762173648: Received PINGREQ from device-bridge-mqtt-client
+1762173648: Sending PINGRESP to device-bridge-mqtt-client
+1762173708: Received PINGREQ from device-bridge-mqtt-client
+1762173708: Sending PINGRESP to device-bridge-mqtt-client
+1762173768: Received PINGREQ from device-bridge-mqtt-client
+1762173768: Sending PINGRESP to device-bridge-mqtt-client
+1762173828: Received PINGREQ from device-bridge-mqtt-client
+1762173828: Sending PINGRESP to device-bridge-mqtt-client
+1762173888: Received PINGREQ from device-bridge-mqtt-client
+1762173888: Sending PINGRESP to device-bridge-mqtt-client
+1762173948: Received PINGREQ from device-bridge-mqtt-client
+1762173948: Sending PINGRESP to device-bridge-mqtt-client
+1762174008: Received PINGREQ from device-bridge-mqtt-client
+1762174008: Sending PINGRESP to device-bridge-mqtt-client
+1762174068: Received PINGREQ from device-bridge-mqtt-client
+1762174068: Sending PINGRESP to device-bridge-mqtt-client
+1762174128: Received PINGREQ from device-bridge-mqtt-client
+1762174128: Sending PINGRESP to device-bridge-mqtt-client
+1762174188: Received PINGREQ from device-bridge-mqtt-client
+1762174188: Sending PINGRESP to device-bridge-mqtt-client
+1762174248: Received PINGREQ from device-bridge-mqtt-client
+1762174248: Sending PINGRESP to device-bridge-mqtt-client
+1762174308: Received PINGREQ from device-bridge-mqtt-client
+1762174308: Sending PINGRESP to device-bridge-mqtt-client
+1762174368: Received PINGREQ from device-bridge-mqtt-client
+1762174368: Sending PINGRESP to device-bridge-mqtt-client
+1762174428: Received PINGREQ from device-bridge-mqtt-client
+1762174428: Sending PINGRESP to device-bridge-mqtt-client
+1762174488: Received PINGREQ from device-bridge-mqtt-client
+1762174488: Sending PINGRESP to device-bridge-mqtt-client
+1762174548: Received PINGREQ from device-bridge-mqtt-client
+1762174548: Sending PINGRESP to device-bridge-mqtt-client
+1762174608: Received PINGREQ from device-bridge-mqtt-client
+1762174608: Sending PINGRESP to device-bridge-mqtt-client
+1762174668: Received PINGREQ from device-bridge-mqtt-client
+1762174668: Sending PINGRESP to device-bridge-mqtt-client
+1762174728: Received PINGREQ from device-bridge-mqtt-client
+1762174728: Sending PINGRESP to device-bridge-mqtt-client
+1762174788: Received PINGREQ from device-bridge-mqtt-client
+1762174788: Sending PINGRESP to device-bridge-mqtt-client
+1762174848: Received PINGREQ from device-bridge-mqtt-client
+1762174848: Sending PINGRESP to device-bridge-mqtt-client
+1762174908: Received PINGREQ from device-bridge-mqtt-client
+1762174908: Sending PINGRESP to device-bridge-mqtt-client
+1762174968: Received PINGREQ from device-bridge-mqtt-client
+1762174968: Sending PINGRESP to device-bridge-mqtt-client
+1762175028: Received PINGREQ from device-bridge-mqtt-client
+1762175028: Sending PINGRESP to device-bridge-mqtt-client
+1762175088: Received PINGREQ from device-bridge-mqtt-client
+1762175088: Sending PINGRESP to device-bridge-mqtt-client
+1762175148: Received PINGREQ from device-bridge-mqtt-client
+1762175148: Sending PINGRESP to device-bridge-mqtt-client
+1762175168: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762175208: Received PINGREQ from device-bridge-mqtt-client
+1762175208: Sending PINGRESP to device-bridge-mqtt-client
+1762175268: Received PINGREQ from device-bridge-mqtt-client
+1762175268: Sending PINGRESP to device-bridge-mqtt-client
+1762175328: Received PINGREQ from device-bridge-mqtt-client
+1762175328: Sending PINGRESP to device-bridge-mqtt-client
+1762175388: Received PINGREQ from device-bridge-mqtt-client
+1762175388: Sending PINGRESP to device-bridge-mqtt-client
+1762175448: Received PINGREQ from device-bridge-mqtt-client
+1762175448: Sending PINGRESP to device-bridge-mqtt-client
+1762175508: Received PINGREQ from device-bridge-mqtt-client
+1762175508: Sending PINGRESP to device-bridge-mqtt-client
+1762175568: Received PINGREQ from device-bridge-mqtt-client
+1762175568: Sending PINGRESP to device-bridge-mqtt-client
+1762175629: Received PINGREQ from device-bridge-mqtt-client
+1762175629: Sending PINGRESP to device-bridge-mqtt-client
+1762175689: Received PINGREQ from device-bridge-mqtt-client
+1762175689: Sending PINGRESP to device-bridge-mqtt-client
+1762175749: Received PINGREQ from device-bridge-mqtt-client
+1762175749: Sending PINGRESP to device-bridge-mqtt-client
+1762175809: Received PINGREQ from device-bridge-mqtt-client
+1762175809: Sending PINGRESP to device-bridge-mqtt-client
+1762175869: Received PINGREQ from device-bridge-mqtt-client
+1762175869: Sending PINGRESP to device-bridge-mqtt-client
+1762175929: Received PINGREQ from device-bridge-mqtt-client
+1762175929: Sending PINGRESP to device-bridge-mqtt-client
+1762175989: Received PINGREQ from device-bridge-mqtt-client
+1762175989: Sending PINGRESP to device-bridge-mqtt-client
+1762176049: Received PINGREQ from device-bridge-mqtt-client
+1762176049: Sending PINGRESP to device-bridge-mqtt-client
+1762176109: Received PINGREQ from device-bridge-mqtt-client
+1762176109: Sending PINGRESP to device-bridge-mqtt-client
+1762176169: Received PINGREQ from device-bridge-mqtt-client
+1762176169: Sending PINGRESP to device-bridge-mqtt-client
+1762176229: Received PINGREQ from device-bridge-mqtt-client
+1762176229: Sending PINGRESP to device-bridge-mqtt-client
+1762176289: Received PINGREQ from device-bridge-mqtt-client
+1762176289: Sending PINGRESP to device-bridge-mqtt-client
+1762176349: Received PINGREQ from device-bridge-mqtt-client
+1762176349: Sending PINGRESP to device-bridge-mqtt-client
+1762176409: Received PINGREQ from device-bridge-mqtt-client
+1762176409: Sending PINGRESP to device-bridge-mqtt-client
+1762176469: Received PINGREQ from device-bridge-mqtt-client
+1762176469: Sending PINGRESP to device-bridge-mqtt-client
+1762176529: Received PINGREQ from device-bridge-mqtt-client
+1762176529: Sending PINGRESP to device-bridge-mqtt-client
+1762176589: Received PINGREQ from device-bridge-mqtt-client
+1762176589: Sending PINGRESP to device-bridge-mqtt-client
+1762176649: Received PINGREQ from device-bridge-mqtt-client
+1762176649: Sending PINGRESP to device-bridge-mqtt-client
+1762176709: Received PINGREQ from device-bridge-mqtt-client
+1762176709: Sending PINGRESP to device-bridge-mqtt-client
+1762176769: Received PINGREQ from device-bridge-mqtt-client
+1762176769: Sending PINGRESP to device-bridge-mqtt-client
+1762176829: Received PINGREQ from device-bridge-mqtt-client
+1762176829: Sending PINGRESP to device-bridge-mqtt-client
+1762176889: Received PINGREQ from device-bridge-mqtt-client
+1762176889: Sending PINGRESP to device-bridge-mqtt-client
+1762176949: Received PINGREQ from device-bridge-mqtt-client
+1762176949: Sending PINGRESP to device-bridge-mqtt-client
+1762176969: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762177009: Received PINGREQ from device-bridge-mqtt-client
+1762177009: Sending PINGRESP to device-bridge-mqtt-client
+1762177069: Received PINGREQ from device-bridge-mqtt-client
+1762177069: Sending PINGRESP to device-bridge-mqtt-client
+1762177129: Received PINGREQ from device-bridge-mqtt-client
+1762177129: Sending PINGRESP to device-bridge-mqtt-client
+1762177189: Received PINGREQ from device-bridge-mqtt-client
+1762177189: Sending PINGRESP to device-bridge-mqtt-client
+1762177249: Received PINGREQ from device-bridge-mqtt-client
+1762177249: Sending PINGRESP to device-bridge-mqtt-client
+1762177309: Received PINGREQ from device-bridge-mqtt-client
+1762177309: Sending PINGRESP to device-bridge-mqtt-client
+1762177369: Received PINGREQ from device-bridge-mqtt-client
+1762177369: Sending PINGRESP to device-bridge-mqtt-client
+1762177399: New connection from 192.168.65.1:29616 on port 1883.
+1762177399: Client device-bridge-mqtt-client already connected, closing old connection.
+1762177399: New client connected from 192.168.65.1:29616 as device-bridge-mqtt-client (p2, c0, k60).
+1762177399: No will message specified.
+1762177399: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762177400: New connection from 192.168.65.1:25274 on port 1883.
+1762177400: Client device-bridge-mqtt-client already connected, closing old connection.
+1762177400: New client connected from 192.168.65.1:25274 as device-bridge-mqtt-client (p2, c0, k60).
+1762177400: No will message specified.
+1762177400: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762177401: New connection from 192.168.65.1:35642 on port 1883.
+1762177402: Client device-bridge-mqtt-client already connected, closing old connection.
+1762177402: New client connected from 192.168.65.1:35642 as device-bridge-mqtt-client (p2, c0, k60).
+1762177402: No will message specified.
+1762177402: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762177402: Received DISCONNECT from device-bridge-mqtt-client
+1762177402: Client device-bridge-mqtt-client disconnected.
+1762177403: New connection from 192.168.65.1:17890 on port 1883.
+1762177403: New client connected from 192.168.65.1:17890 as device-bridge-mqtt-client (p2, c0, k60).
+1762177403: No will message specified.
+1762177403: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762177458: Received DISCONNECT from device-bridge-mqtt-client
+1762177458: Client device-bridge-mqtt-client disconnected.
+1762177568: New connection from 192.168.65.1:43134 on port 1883.
+1762177568: New client connected from 192.168.65.1:43134 as device-bridge-mqtt-client (p2, c0, k60).
+1762177568: No will message specified.
+1762177568: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762177583: Received DISCONNECT from device-bridge-mqtt-client
+1762177583: Client device-bridge-mqtt-client disconnected.
+1762177620: New connection from 192.168.65.1:25646 on port 1883.
+1762177621: New client connected from 192.168.65.1:25646 as device-bridge-mqtt-client (p2, c0, k60).
+1762177621: No will message specified.
+1762177621: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762177681: Received PINGREQ from device-bridge-mqtt-client
+1762177681: Sending PINGRESP to device-bridge-mqtt-client
+1762177741: Received PINGREQ from device-bridge-mqtt-client
+1762177741: Sending PINGRESP to device-bridge-mqtt-client
+1762177789: New connection from 192.168.65.1:56646 on port 1883.
+1762177789: Client device-bridge-mqtt-client already connected, closing old connection.
+1762177789: New client connected from 192.168.65.1:56646 as device-bridge-mqtt-client (p2, c0, k60).
+1762177789: No will message specified.
+1762177789: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762177790: New connection from 192.168.65.1:20010 on port 1883.
+1762177790: Client device-bridge-mqtt-client already connected, closing old connection.
+1762177790: New client connected from 192.168.65.1:20010 as device-bridge-mqtt-client (p2, c0, k60).
+1762177790: No will message specified.
+1762177790: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762177791: New connection from 192.168.65.1:64793 on port 1883.
+1762177792: Client device-bridge-mqtt-client already connected, closing old connection.
+1762177792: New client connected from 192.168.65.1:64793 as device-bridge-mqtt-client (p2, c0, k60).
+1762177792: No will message specified.
+1762177792: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762177792: Received DISCONNECT from device-bridge-mqtt-client
+1762177792: Client device-bridge-mqtt-client disconnected.
+1762177793: New connection from 192.168.65.1:58286 on port 1883.
+1762177793: New client connected from 192.168.65.1:58286 as device-bridge-mqtt-client (p2, c0, k60).
+1762177793: No will message specified.
+1762177793: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762177820: Received PUBLISH from device-bridge-mqtt-client (d0, q1, r0, m1, 'orders/device/1', ... (149 bytes))
+1762177820: Sending PUBACK to device-bridge-mqtt-client (m1, rc0)
+1762177880: Received PINGREQ from device-bridge-mqtt-client
+1762177880: Sending PINGRESP to device-bridge-mqtt-client
+1762177935: Received DISCONNECT from device-bridge-mqtt-client
+1762177935: Client device-bridge-mqtt-client disconnected.
+1762177937: New connection from 192.168.65.1:64271 on port 1883.
+1762177937: New client connected from 192.168.65.1:64271 as device-bridge-mqtt-client (p2, c0, k60).
+1762177937: No will message specified.
+1762177937: Sending CONNACK to device-bridge-mqtt-client (1, 0)
+1762177991: Received PUBLISH from device-bridge-mqtt-client (d0, q1, r0, m1, 'orders/device/2', ... (149 bytes))
+1762177991: Sending PUBACK to device-bridge-mqtt-client (m1, rc0)
+1762178051: Received PINGREQ from device-bridge-mqtt-client
+1762178051: Sending PINGRESP to device-bridge-mqtt-client
+1762178111: Received PINGREQ from device-bridge-mqtt-client
+1762178111: Sending PINGRESP to device-bridge-mqtt-client
+1762178171: Received PINGREQ from device-bridge-mqtt-client
+1762178171: Sending PINGRESP to device-bridge-mqtt-client
+1762178231: Received PINGREQ from device-bridge-mqtt-client
+1762178231: Sending PINGRESP to device-bridge-mqtt-client
+1762178291: Received PINGREQ from device-bridge-mqtt-client
+1762178291: Sending PINGRESP to device-bridge-mqtt-client
+1762178351: Received PINGREQ from device-bridge-mqtt-client
+1762178351: Sending PINGRESP to device-bridge-mqtt-client
+1762178411: Received PINGREQ from device-bridge-mqtt-client
+1762178411: Sending PINGRESP to device-bridge-mqtt-client
+1762178471: Received PINGREQ from device-bridge-mqtt-client
+1762178471: Sending PINGRESP to device-bridge-mqtt-client
+1762178531: Received PINGREQ from device-bridge-mqtt-client
+1762178531: Sending PINGRESP to device-bridge-mqtt-client
+1762178591: Received PINGREQ from device-bridge-mqtt-client
+1762178591: Sending PINGRESP to device-bridge-mqtt-client
+1762178652: Received PINGREQ from device-bridge-mqtt-client
+1762178652: Sending PINGRESP to device-bridge-mqtt-client
+1762178712: Received PINGREQ from device-bridge-mqtt-client
+1762178712: Sending PINGRESP to device-bridge-mqtt-client
+1762178770: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762178772: Received PINGREQ from device-bridge-mqtt-client
+1762178772: Sending PINGRESP to device-bridge-mqtt-client
+1762178832: Received PINGREQ from device-bridge-mqtt-client
+1762178832: Sending PINGRESP to device-bridge-mqtt-client
+1762178892: Received PINGREQ from device-bridge-mqtt-client
+1762178892: Sending PINGRESP to device-bridge-mqtt-client
+1762178952: Received PINGREQ from device-bridge-mqtt-client
+1762178952: Sending PINGRESP to device-bridge-mqtt-client
+1762179012: Received PINGREQ from device-bridge-mqtt-client
+1762179012: Sending PINGRESP to device-bridge-mqtt-client
+1762179072: Received PINGREQ from device-bridge-mqtt-client
+1762179072: Sending PINGRESP to device-bridge-mqtt-client
+1762179132: Received PINGREQ from device-bridge-mqtt-client
+1762179132: Sending PINGRESP to device-bridge-mqtt-client
+1762179192: Received PINGREQ from device-bridge-mqtt-client
+1762179192: Sending PINGRESP to device-bridge-mqtt-client
+1762179252: Received PINGREQ from device-bridge-mqtt-client
+1762179252: Sending PINGRESP to device-bridge-mqtt-client
+1762179312: Received PINGREQ from device-bridge-mqtt-client
+1762179312: Sending PINGRESP to device-bridge-mqtt-client
+1762179372: Received PINGREQ from device-bridge-mqtt-client
+1762179372: Sending PINGRESP to device-bridge-mqtt-client
+1762179432: Received PINGREQ from device-bridge-mqtt-client
+1762179432: Sending PINGRESP to device-bridge-mqtt-client
+1762179492: Received PINGREQ from device-bridge-mqtt-client
+1762179492: Sending PINGRESP to device-bridge-mqtt-client
+1762179552: Received PINGREQ from device-bridge-mqtt-client
+1762179552: Sending PINGRESP to device-bridge-mqtt-client
+1762179612: Received PINGREQ from device-bridge-mqtt-client
+1762179612: Sending PINGRESP to device-bridge-mqtt-client
+1762179672: Received PINGREQ from device-bridge-mqtt-client
+1762179672: Sending PINGRESP to device-bridge-mqtt-client
+1762179732: Received PINGREQ from device-bridge-mqtt-client
+1762179732: Sending PINGRESP to device-bridge-mqtt-client
+1762179792: Received PINGREQ from device-bridge-mqtt-client
+1762179792: Sending PINGRESP to device-bridge-mqtt-client
+1762179852: Received PINGREQ from device-bridge-mqtt-client
+1762179852: Sending PINGRESP to device-bridge-mqtt-client
+1762179912: Received PINGREQ from device-bridge-mqtt-client
+1762179912: Sending PINGRESP to device-bridge-mqtt-client
+1762179972: Received PINGREQ from device-bridge-mqtt-client
+1762179972: Sending PINGRESP to device-bridge-mqtt-client
+1762180032: Received PINGREQ from device-bridge-mqtt-client
+1762180032: Sending PINGRESP to device-bridge-mqtt-client
+1762180092: Received PINGREQ from device-bridge-mqtt-client
+1762180092: Sending PINGRESP to device-bridge-mqtt-client
+1762180152: Received PINGREQ from device-bridge-mqtt-client
+1762180152: Sending PINGRESP to device-bridge-mqtt-client
+1762180212: Received PINGREQ from device-bridge-mqtt-client
+1762180212: Sending PINGRESP to device-bridge-mqtt-client
+1762180272: Received PINGREQ from device-bridge-mqtt-client
+1762180272: Sending PINGRESP to device-bridge-mqtt-client
+1762180332: Received PINGREQ from device-bridge-mqtt-client
+1762180332: Sending PINGRESP to device-bridge-mqtt-client
+1762180392: Received PINGREQ from device-bridge-mqtt-client
+1762180392: Sending PINGRESP to device-bridge-mqtt-client
+1762180452: Received PINGREQ from device-bridge-mqtt-client
+1762180452: Sending PINGRESP to device-bridge-mqtt-client
+1762180512: Received PINGREQ from device-bridge-mqtt-client
+1762180512: Sending PINGRESP to device-bridge-mqtt-client
+1762180571: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762180572: Received PINGREQ from device-bridge-mqtt-client
+1762180572: Sending PINGRESP to device-bridge-mqtt-client
+1762180632: Received PINGREQ from device-bridge-mqtt-client
+1762180632: Sending PINGRESP to device-bridge-mqtt-client
+1762180692: Received PINGREQ from device-bridge-mqtt-client
+1762180692: Sending PINGRESP to device-bridge-mqtt-client
+1762180752: Received PINGREQ from device-bridge-mqtt-client
+1762180752: Sending PINGRESP to device-bridge-mqtt-client
+1762180812: Received PINGREQ from device-bridge-mqtt-client
+1762180812: Sending PINGRESP to device-bridge-mqtt-client
+1762180872: Received PINGREQ from device-bridge-mqtt-client
+1762180872: Sending PINGRESP to device-bridge-mqtt-client
+1762180932: Received PINGREQ from device-bridge-mqtt-client
+1762180932: Sending PINGRESP to device-bridge-mqtt-client
+1762180992: Received PINGREQ from device-bridge-mqtt-client
+1762180992: Sending PINGRESP to device-bridge-mqtt-client
+1762181052: Received PINGREQ from device-bridge-mqtt-client
+1762181052: Sending PINGRESP to device-bridge-mqtt-client
+1762181112: Received PINGREQ from device-bridge-mqtt-client
+1762181112: Sending PINGRESP to device-bridge-mqtt-client
+1762181172: Received PINGREQ from device-bridge-mqtt-client
+1762181172: Sending PINGRESP to device-bridge-mqtt-client
+1762181232: Received PINGREQ from device-bridge-mqtt-client
+1762181232: Sending PINGRESP to device-bridge-mqtt-client
+1762181292: Received PINGREQ from device-bridge-mqtt-client
+1762181292: Sending PINGRESP to device-bridge-mqtt-client
+1762181352: Received PINGREQ from device-bridge-mqtt-client
+1762181352: Sending PINGRESP to device-bridge-mqtt-client
+1762181412: Received PINGREQ from device-bridge-mqtt-client
+1762181412: Sending PINGRESP to device-bridge-mqtt-client
+1762181472: Received PINGREQ from device-bridge-mqtt-client
+1762181472: Sending PINGRESP to device-bridge-mqtt-client
+1762181532: Received PINGREQ from device-bridge-mqtt-client
+1762181532: Sending PINGRESP to device-bridge-mqtt-client
+1762182029: Received PINGREQ from device-bridge-mqtt-client
+1762182029: Sending PINGRESP to device-bridge-mqtt-client
+1762182303: Received PINGREQ from device-bridge-mqtt-client
+1762182303: Sending PINGRESP to device-bridge-mqtt-client
+1762182397: Received PINGREQ from device-bridge-mqtt-client
+1762182397: Sending PINGRESP to device-bridge-mqtt-client
+1762183367: Received PINGREQ from device-bridge-mqtt-client
+1762183367: Sending PINGRESP to device-bridge-mqtt-client
+1762183427: Received PINGREQ from device-bridge-mqtt-client
+1762183427: Sending PINGRESP to device-bridge-mqtt-client
+1762183833: Received PINGREQ from device-bridge-mqtt-client
+1762183833: Sending PINGRESP to device-bridge-mqtt-client
+1762184818: Received PINGREQ from device-bridge-mqtt-client
+1762184818: Sending PINGRESP to device-bridge-mqtt-client
+1762184935: Received PINGREQ from device-bridge-mqtt-client
+1762184935: Sending PINGRESP to device-bridge-mqtt-client
+1762185332: Received PINGREQ from device-bridge-mqtt-client
+1762185332: Sending PINGRESP to device-bridge-mqtt-client
+1762186316: Received PINGREQ from device-bridge-mqtt-client
+1762186316: Sending PINGRESP to device-bridge-mqtt-client
+1762187410: Received PINGREQ from device-bridge-mqtt-client
+1762187410: Sending PINGRESP to device-bridge-mqtt-client
+1762187470: Received PINGREQ from device-bridge-mqtt-client
+1762187470: Sending PINGRESP to device-bridge-mqtt-client
+1762187530: Received PINGREQ from device-bridge-mqtt-client
+1762187530: Sending PINGRESP to device-bridge-mqtt-client
+1762188136: Received PINGREQ from device-bridge-mqtt-client
+1762188136: Sending PINGRESP to device-bridge-mqtt-client
+1762188136: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762189590: Received PINGREQ from device-bridge-mqtt-client
+1762189590: Sending PINGRESP to device-bridge-mqtt-client
+1762190579: Received PINGREQ from device-bridge-mqtt-client
+1762190579: Sending PINGRESP to device-bridge-mqtt-client
+1762191699: Received PINGREQ from device-bridge-mqtt-client
+1762191699: Sending PINGRESP to device-bridge-mqtt-client
+1762192708: Received PINGREQ from device-bridge-mqtt-client
+1762192708: Sending PINGRESP to device-bridge-mqtt-client
+1762193682: Received PINGREQ from device-bridge-mqtt-client
+1762193682: Sending PINGRESP to device-bridge-mqtt-client
+1762194710: Received PINGREQ from device-bridge-mqtt-client
+1762194710: Sending PINGRESP to device-bridge-mqtt-client
+1762196716: Received PINGREQ from device-bridge-mqtt-client
+1762196716: Sending PINGRESP to device-bridge-mqtt-client
+1762196776: Received PINGREQ from device-bridge-mqtt-client
+1762196776: Sending PINGRESP to device-bridge-mqtt-client
+1762197805: Received PINGREQ from device-bridge-mqtt-client
+1762197805: Sending PINGRESP to device-bridge-mqtt-client
+1762198779: Received PINGREQ from device-bridge-mqtt-client
+1762198779: Sending PINGRESP to device-bridge-mqtt-client
+1762200764: Received PINGREQ from device-bridge-mqtt-client
+1762200764: Sending PINGRESP to device-bridge-mqtt-client
+1762201741: Received PINGREQ from device-bridge-mqtt-client
+1762201741: Sending PINGRESP to device-bridge-mqtt-client
+1762202713: Received PINGREQ from device-bridge-mqtt-client
+1762202713: Sending PINGRESP to device-bridge-mqtt-client
+1762203698: Received PINGREQ from device-bridge-mqtt-client
+1762203698: Sending PINGRESP to device-bridge-mqtt-client
+1762203895: Received PINGREQ from device-bridge-mqtt-client
+1762203895: Sending PINGRESP to device-bridge-mqtt-client
+1762205260: Received PINGREQ from device-bridge-mqtt-client
+1762205260: Sending PINGRESP to device-bridge-mqtt-client
+1762205320: Received PINGREQ from device-bridge-mqtt-client
+1762205320: Sending PINGRESP to device-bridge-mqtt-client
+1762206122: Received PINGREQ from device-bridge-mqtt-client
+1762206122: Sending PINGRESP to device-bridge-mqtt-client
+1762207209: Received PINGREQ from device-bridge-mqtt-client
+1762207209: Sending PINGRESP to device-bridge-mqtt-client
+1762208626: Received PINGREQ from device-bridge-mqtt-client
+1762208626: Sending PINGRESP to device-bridge-mqtt-client
+1762208697: Received PINGREQ from device-bridge-mqtt-client
+1762208697: Sending PINGRESP to device-bridge-mqtt-client
+1762209730: Received PINGREQ from device-bridge-mqtt-client
+1762209730: Sending PINGRESP to device-bridge-mqtt-client
+1762210701: Received PINGREQ from device-bridge-mqtt-client
+1762210701: Sending PINGRESP to device-bridge-mqtt-client
+1762211706: Received PINGREQ from device-bridge-mqtt-client
+1762211706: Sending PINGRESP to device-bridge-mqtt-client
+1762212091: Received PINGREQ from device-bridge-mqtt-client
+1762212091: Sending PINGRESP to device-bridge-mqtt-client
+1762212345: Received PINGREQ from device-bridge-mqtt-client
+1762212345: Sending PINGRESP to device-bridge-mqtt-client
+1762212405: Received PINGREQ from device-bridge-mqtt-client
+1762212405: Sending PINGRESP to device-bridge-mqtt-client
+1762212465: Received PINGREQ from device-bridge-mqtt-client
+1762212465: Sending PINGRESP to device-bridge-mqtt-client
+1762212525: Received PINGREQ from device-bridge-mqtt-client
+1762212525: Sending PINGRESP to device-bridge-mqtt-client
+1762212584: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762212585: Received PINGREQ from device-bridge-mqtt-client
+1762212585: Sending PINGRESP to device-bridge-mqtt-client
+1762212645: Received PINGREQ from device-bridge-mqtt-client
+1762212645: Sending PINGRESP to device-bridge-mqtt-client
+1762212705: Received PINGREQ from device-bridge-mqtt-client
+1762212705: Sending PINGRESP to device-bridge-mqtt-client
+1762212765: Received PINGREQ from device-bridge-mqtt-client
+1762212765: Sending PINGRESP to device-bridge-mqtt-client
+1762212825: Received PINGREQ from device-bridge-mqtt-client
+1762212825: Sending PINGRESP to device-bridge-mqtt-client
+1762212885: Received PINGREQ from device-bridge-mqtt-client
+1762212885: Sending PINGRESP to device-bridge-mqtt-client
+1762212945: Received PINGREQ from device-bridge-mqtt-client
+1762212945: Sending PINGRESP to device-bridge-mqtt-client
+1762213005: Received PINGREQ from device-bridge-mqtt-client
+1762213005: Sending PINGRESP to device-bridge-mqtt-client
+1762213065: Received PINGREQ from device-bridge-mqtt-client
+1762213065: Sending PINGRESP to device-bridge-mqtt-client
+1762213125: Received PINGREQ from device-bridge-mqtt-client
+1762213125: Sending PINGRESP to device-bridge-mqtt-client
+1762213185: Received PINGREQ from device-bridge-mqtt-client
+1762213185: Sending PINGRESP to device-bridge-mqtt-client
+1762213245: Received PINGREQ from device-bridge-mqtt-client
+1762213245: Sending PINGRESP to device-bridge-mqtt-client
+1762213305: Received PINGREQ from device-bridge-mqtt-client
+1762213305: Sending PINGRESP to device-bridge-mqtt-client
+1762213365: Received PINGREQ from device-bridge-mqtt-client
+1762213365: Sending PINGRESP to device-bridge-mqtt-client
+1762213425: Received PINGREQ from device-bridge-mqtt-client
+1762213425: Sending PINGRESP to device-bridge-mqtt-client
+1762213485: Received PINGREQ from device-bridge-mqtt-client
+1762213485: Sending PINGRESP to device-bridge-mqtt-client
+1762213545: Received PINGREQ from device-bridge-mqtt-client
+1762213545: Sending PINGRESP to device-bridge-mqtt-client
+1762213605: Received PINGREQ from device-bridge-mqtt-client
+1762213605: Sending PINGRESP to device-bridge-mqtt-client
+1762213665: Received PINGREQ from device-bridge-mqtt-client
+1762213665: Sending PINGRESP to device-bridge-mqtt-client
+1762213725: Received PINGREQ from device-bridge-mqtt-client
+1762213725: Sending PINGRESP to device-bridge-mqtt-client
+1762213785: Received PINGREQ from device-bridge-mqtt-client
+1762213785: Sending PINGRESP to device-bridge-mqtt-client
+1762213845: Received PINGREQ from device-bridge-mqtt-client
+1762213845: Sending PINGRESP to device-bridge-mqtt-client
+1762213905: Received PINGREQ from device-bridge-mqtt-client
+1762213905: Sending PINGRESP to device-bridge-mqtt-client
+1762213965: Received PINGREQ from device-bridge-mqtt-client
+1762213965: Sending PINGRESP to device-bridge-mqtt-client
+1762214025: Received PINGREQ from device-bridge-mqtt-client
+1762214025: Sending PINGRESP to device-bridge-mqtt-client
+1762214085: Received PINGREQ from device-bridge-mqtt-client
+1762214085: Sending PINGRESP to device-bridge-mqtt-client
+1762214145: Received PINGREQ from device-bridge-mqtt-client
+1762214145: Sending PINGRESP to device-bridge-mqtt-client
+1762214205: Received PINGREQ from device-bridge-mqtt-client
+1762214205: Sending PINGRESP to device-bridge-mqtt-client
+1762214265: Received PINGREQ from device-bridge-mqtt-client
+1762214265: Sending PINGRESP to device-bridge-mqtt-client
+1762214325: Received PINGREQ from device-bridge-mqtt-client
+1762214325: Sending PINGRESP to device-bridge-mqtt-client
+1762214385: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762214385: Received PINGREQ from device-bridge-mqtt-client
+1762214385: Sending PINGRESP to device-bridge-mqtt-client
+1762214445: Received PINGREQ from device-bridge-mqtt-client
+1762214445: Sending PINGRESP to device-bridge-mqtt-client
+1762214505: Received PINGREQ from device-bridge-mqtt-client
+1762214505: Sending PINGRESP to device-bridge-mqtt-client
+1762214565: Received PINGREQ from device-bridge-mqtt-client
+1762214565: Sending PINGRESP to device-bridge-mqtt-client
+1762214625: Received PINGREQ from device-bridge-mqtt-client
+1762214625: Sending PINGRESP to device-bridge-mqtt-client
+1762214685: Received PINGREQ from device-bridge-mqtt-client
+1762214685: Sending PINGRESP to device-bridge-mqtt-client
+1762214745: Received PINGREQ from device-bridge-mqtt-client
+1762214745: Sending PINGRESP to device-bridge-mqtt-client
+1762214805: Received PINGREQ from device-bridge-mqtt-client
+1762214805: Sending PINGRESP to device-bridge-mqtt-client
+1762214865: Received PINGREQ from device-bridge-mqtt-client
+1762214865: Sending PINGRESP to device-bridge-mqtt-client
+1762214925: Received PINGREQ from device-bridge-mqtt-client
+1762214925: Sending PINGRESP to device-bridge-mqtt-client
+1762214985: Received PINGREQ from device-bridge-mqtt-client
+1762214985: Sending PINGRESP to device-bridge-mqtt-client
+1762215045: Received PINGREQ from device-bridge-mqtt-client
+1762215045: Sending PINGRESP to device-bridge-mqtt-client
+1762215105: Received PINGREQ from device-bridge-mqtt-client
+1762215105: Sending PINGRESP to device-bridge-mqtt-client
+1762215165: Received PINGREQ from device-bridge-mqtt-client
+1762215165: Sending PINGRESP to device-bridge-mqtt-client
+1762215225: Received PINGREQ from device-bridge-mqtt-client
+1762215225: Sending PINGRESP to device-bridge-mqtt-client
+1762215285: Received PINGREQ from device-bridge-mqtt-client
+1762215285: Sending PINGRESP to device-bridge-mqtt-client
+1762215345: Received PINGREQ from device-bridge-mqtt-client
+1762215345: Sending PINGRESP to device-bridge-mqtt-client
+1762215405: Received PINGREQ from device-bridge-mqtt-client
+1762215405: Sending PINGRESP to device-bridge-mqtt-client
+1762215465: Received PINGREQ from device-bridge-mqtt-client
+1762215465: Sending PINGRESP to device-bridge-mqtt-client
+1762215525: Received PINGREQ from device-bridge-mqtt-client
+1762215525: Sending PINGRESP to device-bridge-mqtt-client
+1762215585: Received PINGREQ from device-bridge-mqtt-client
+1762215585: Sending PINGRESP to device-bridge-mqtt-client
+1762215645: Received PINGREQ from device-bridge-mqtt-client
+1762215645: Sending PINGRESP to device-bridge-mqtt-client
+1762215705: Received PINGREQ from device-bridge-mqtt-client
+1762215705: Sending PINGRESP to device-bridge-mqtt-client
+1762215765: Received PINGREQ from device-bridge-mqtt-client
+1762215765: Sending PINGRESP to device-bridge-mqtt-client
+1762215825: Received PINGREQ from device-bridge-mqtt-client
+1762215825: Sending PINGRESP to device-bridge-mqtt-client
+1762215885: Received PINGREQ from device-bridge-mqtt-client
+1762215885: Sending PINGRESP to device-bridge-mqtt-client
+1762215945: Received PINGREQ from device-bridge-mqtt-client
+1762215945: Sending PINGRESP to device-bridge-mqtt-client
+1762216005: Received PINGREQ from device-bridge-mqtt-client
+1762216005: Sending PINGRESP to device-bridge-mqtt-client
+1762216065: Received PINGREQ from device-bridge-mqtt-client
+1762216065: Sending PINGRESP to device-bridge-mqtt-client
+1762216125: Received PINGREQ from device-bridge-mqtt-client
+1762216125: Sending PINGRESP to device-bridge-mqtt-client
+1762216185: Received PINGREQ from device-bridge-mqtt-client
+1762216185: Sending PINGRESP to device-bridge-mqtt-client
+1762216186: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762216245: Received PINGREQ from device-bridge-mqtt-client
+1762216245: Sending PINGRESP to device-bridge-mqtt-client
+1762216305: Received PINGREQ from device-bridge-mqtt-client
+1762216305: Sending PINGRESP to device-bridge-mqtt-client
+1762216365: Received PINGREQ from device-bridge-mqtt-client
+1762216365: Sending PINGRESP to device-bridge-mqtt-client
+1762216425: Received PINGREQ from device-bridge-mqtt-client
+1762216425: Sending PINGRESP to device-bridge-mqtt-client
+1762216485: Received PINGREQ from device-bridge-mqtt-client
+1762216485: Sending PINGRESP to device-bridge-mqtt-client
+1762216545: Received PINGREQ from device-bridge-mqtt-client
+1762216545: Sending PINGRESP to device-bridge-mqtt-client
+1762216605: Received PINGREQ from device-bridge-mqtt-client
+1762216605: Sending PINGRESP to device-bridge-mqtt-client
+1762216665: Received PINGREQ from device-bridge-mqtt-client
+1762216665: Sending PINGRESP to device-bridge-mqtt-client
+1762216725: Received PINGREQ from device-bridge-mqtt-client
+1762216725: Sending PINGRESP to device-bridge-mqtt-client
+1762216785: Received PINGREQ from device-bridge-mqtt-client
+1762216785: Sending PINGRESP to device-bridge-mqtt-client
+1762216845: Received PINGREQ from device-bridge-mqtt-client
+1762216845: Sending PINGRESP to device-bridge-mqtt-client
+1762216905: Received PINGREQ from device-bridge-mqtt-client
+1762216905: Sending PINGRESP to device-bridge-mqtt-client
+1762216965: Received PINGREQ from device-bridge-mqtt-client
+1762216965: Sending PINGRESP to device-bridge-mqtt-client
+1762217025: Received PINGREQ from device-bridge-mqtt-client
+1762217025: Sending PINGRESP to device-bridge-mqtt-client
+1762217085: Received PINGREQ from device-bridge-mqtt-client
+1762217085: Sending PINGRESP to device-bridge-mqtt-client
+1762217145: Received PINGREQ from device-bridge-mqtt-client
+1762217145: Sending PINGRESP to device-bridge-mqtt-client
+1762217205: Received PINGREQ from device-bridge-mqtt-client
+1762217205: Sending PINGRESP to device-bridge-mqtt-client
+1762217265: Received PINGREQ from device-bridge-mqtt-client
+1762217265: Sending PINGRESP to device-bridge-mqtt-client
+1762217325: Received PINGREQ from device-bridge-mqtt-client
+1762217325: Sending PINGRESP to device-bridge-mqtt-client
+1762217385: Received PINGREQ from device-bridge-mqtt-client
+1762217385: Sending PINGRESP to device-bridge-mqtt-client
+1762217445: Received PINGREQ from device-bridge-mqtt-client
+1762217445: Sending PINGRESP to device-bridge-mqtt-client
+1762217505: Received PINGREQ from device-bridge-mqtt-client
+1762217505: Sending PINGRESP to device-bridge-mqtt-client
+1762217565: Received PINGREQ from device-bridge-mqtt-client
+1762217565: Sending PINGRESP to device-bridge-mqtt-client
+1762217625: Received PINGREQ from device-bridge-mqtt-client
+1762217625: Sending PINGRESP to device-bridge-mqtt-client
+1762217685: Received PINGREQ from device-bridge-mqtt-client
+1762217685: Sending PINGRESP to device-bridge-mqtt-client
+1762217745: Received PINGREQ from device-bridge-mqtt-client
+1762217745: Sending PINGRESP to device-bridge-mqtt-client
+1762217805: Received PINGREQ from device-bridge-mqtt-client
+1762217805: Sending PINGRESP to device-bridge-mqtt-client
+1762217865: Received PINGREQ from device-bridge-mqtt-client
+1762217865: Sending PINGRESP to device-bridge-mqtt-client
+1762217925: Received PINGREQ from device-bridge-mqtt-client
+1762217925: Sending PINGRESP to device-bridge-mqtt-client
+1762217986: Received PINGREQ from device-bridge-mqtt-client
+1762217986: Sending PINGRESP to device-bridge-mqtt-client
+1762217987: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762218046: Received PINGREQ from device-bridge-mqtt-client
+1762218046: Sending PINGRESP to device-bridge-mqtt-client
+1762218106: Received PINGREQ from device-bridge-mqtt-client
+1762218106: Sending PINGRESP to device-bridge-mqtt-client
+1762218166: Received PINGREQ from device-bridge-mqtt-client
+1762218166: Sending PINGRESP to device-bridge-mqtt-client
+1762218226: Received PINGREQ from device-bridge-mqtt-client
+1762218226: Sending PINGRESP to device-bridge-mqtt-client
+1762218286: Received PINGREQ from device-bridge-mqtt-client
+1762218286: Sending PINGRESP to device-bridge-mqtt-client
+1762218346: Received PINGREQ from device-bridge-mqtt-client
+1762218346: Sending PINGRESP to device-bridge-mqtt-client
+1762218406: Received PINGREQ from device-bridge-mqtt-client
+1762218406: Sending PINGRESP to device-bridge-mqtt-client
+1762218466: Received PINGREQ from device-bridge-mqtt-client
+1762218466: Sending PINGRESP to device-bridge-mqtt-client
+1762218526: Received PINGREQ from device-bridge-mqtt-client
+1762218526: Sending PINGRESP to device-bridge-mqtt-client
+1762218586: Received PINGREQ from device-bridge-mqtt-client
+1762218586: Sending PINGRESP to device-bridge-mqtt-client
+1762218646: Received PINGREQ from device-bridge-mqtt-client
+1762218646: Sending PINGRESP to device-bridge-mqtt-client
+1762218706: Received PINGREQ from device-bridge-mqtt-client
+1762218706: Sending PINGRESP to device-bridge-mqtt-client
+1762218766: Received PINGREQ from device-bridge-mqtt-client
+1762218766: Sending PINGRESP to device-bridge-mqtt-client
+1762218826: Received PINGREQ from device-bridge-mqtt-client
+1762218826: Sending PINGRESP to device-bridge-mqtt-client
+1762218886: Received PINGREQ from device-bridge-mqtt-client
+1762218886: Sending PINGRESP to device-bridge-mqtt-client
+1762218946: Received PINGREQ from device-bridge-mqtt-client
+1762218946: Sending PINGRESP to device-bridge-mqtt-client
+1762219006: Received PINGREQ from device-bridge-mqtt-client
+1762219006: Sending PINGRESP to device-bridge-mqtt-client
+1762219066: Received PINGREQ from device-bridge-mqtt-client
+1762219066: Sending PINGRESP to device-bridge-mqtt-client
+1762219126: Received PINGREQ from device-bridge-mqtt-client
+1762219126: Sending PINGRESP to device-bridge-mqtt-client
+1762219186: Received PINGREQ from device-bridge-mqtt-client
+1762219186: Sending PINGRESP to device-bridge-mqtt-client
+1762219246: Received PINGREQ from device-bridge-mqtt-client
+1762219246: Sending PINGRESP to device-bridge-mqtt-client
+1762219306: Received PINGREQ from device-bridge-mqtt-client
+1762219306: Sending PINGRESP to device-bridge-mqtt-client
+1762219366: Received PINGREQ from device-bridge-mqtt-client
+1762219366: Sending PINGRESP to device-bridge-mqtt-client
+1762219426: Received PINGREQ from device-bridge-mqtt-client
+1762219426: Sending PINGRESP to device-bridge-mqtt-client
+1762219486: Received PINGREQ from device-bridge-mqtt-client
+1762219486: Sending PINGRESP to device-bridge-mqtt-client
+1762219546: Received PINGREQ from device-bridge-mqtt-client
+1762219546: Sending PINGRESP to device-bridge-mqtt-client
+1762219606: Received PINGREQ from device-bridge-mqtt-client
+1762219606: Sending PINGRESP to device-bridge-mqtt-client
+1762219666: Received PINGREQ from device-bridge-mqtt-client
+1762219666: Sending PINGRESP to device-bridge-mqtt-client
+1762219726: Received PINGREQ from device-bridge-mqtt-client
+1762219726: Sending PINGRESP to device-bridge-mqtt-client
+1762219786: Received PINGREQ from device-bridge-mqtt-client
+1762219786: Sending PINGRESP to device-bridge-mqtt-client
+1762219788: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762219846: Received PINGREQ from device-bridge-mqtt-client
+1762219846: Sending PINGRESP to device-bridge-mqtt-client
+1762219906: Received PINGREQ from device-bridge-mqtt-client
+1762219906: Sending PINGRESP to device-bridge-mqtt-client
+1762219966: Received PINGREQ from device-bridge-mqtt-client
+1762219966: Sending PINGRESP to device-bridge-mqtt-client
+1762220026: Received PINGREQ from device-bridge-mqtt-client
+1762220026: Sending PINGRESP to device-bridge-mqtt-client
+1762220086: Received PINGREQ from device-bridge-mqtt-client
+1762220086: Sending PINGRESP to device-bridge-mqtt-client
+1762220146: Received PINGREQ from device-bridge-mqtt-client
+1762220146: Sending PINGRESP to device-bridge-mqtt-client
+1762220206: Received PINGREQ from device-bridge-mqtt-client
+1762220206: Sending PINGRESP to device-bridge-mqtt-client
+1762220266: Received PINGREQ from device-bridge-mqtt-client
+1762220266: Sending PINGRESP to device-bridge-mqtt-client
+1762220326: Received PINGREQ from device-bridge-mqtt-client
+1762220326: Sending PINGRESP to device-bridge-mqtt-client
+1762220386: Received PINGREQ from device-bridge-mqtt-client
+1762220386: Sending PINGRESP to device-bridge-mqtt-client
+1762220446: Received PINGREQ from device-bridge-mqtt-client
+1762220446: Sending PINGRESP to device-bridge-mqtt-client
+1762220506: Received PINGREQ from device-bridge-mqtt-client
+1762220506: Sending PINGRESP to device-bridge-mqtt-client
+1762220566: Received PINGREQ from device-bridge-mqtt-client
+1762220566: Sending PINGRESP to device-bridge-mqtt-client
+1762220626: Received PINGREQ from device-bridge-mqtt-client
+1762220626: Sending PINGRESP to device-bridge-mqtt-client
+1762220686: Received PINGREQ from device-bridge-mqtt-client
+1762220686: Sending PINGRESP to device-bridge-mqtt-client
+1762220746: Received PINGREQ from device-bridge-mqtt-client
+1762220746: Sending PINGRESP to device-bridge-mqtt-client
+1762220806: Received PINGREQ from device-bridge-mqtt-client
+1762220806: Sending PINGRESP to device-bridge-mqtt-client
+1762220866: Received PINGREQ from device-bridge-mqtt-client
+1762220866: Sending PINGRESP to device-bridge-mqtt-client
+1762220926: Received PINGREQ from device-bridge-mqtt-client
+1762220926: Sending PINGRESP to device-bridge-mqtt-client
+1762220986: Received PINGREQ from device-bridge-mqtt-client
+1762220986: Sending PINGRESP to device-bridge-mqtt-client
+1762221046: Received PINGREQ from device-bridge-mqtt-client
+1762221046: Sending PINGRESP to device-bridge-mqtt-client
+1762221106: Received PINGREQ from device-bridge-mqtt-client
+1762221106: Sending PINGRESP to device-bridge-mqtt-client
+1762221166: Received PINGREQ from device-bridge-mqtt-client
+1762221166: Sending PINGRESP to device-bridge-mqtt-client
+1762221226: Received PINGREQ from device-bridge-mqtt-client
+1762221226: Sending PINGRESP to device-bridge-mqtt-client
+1762221286: Received PINGREQ from device-bridge-mqtt-client
+1762221286: Sending PINGRESP to device-bridge-mqtt-client
+1762221346: Received PINGREQ from device-bridge-mqtt-client
+1762221346: Sending PINGRESP to device-bridge-mqtt-client
+1762221406: Received PINGREQ from device-bridge-mqtt-client
+1762221406: Sending PINGRESP to device-bridge-mqtt-client
+1762221466: Received PINGREQ from device-bridge-mqtt-client
+1762221466: Sending PINGRESP to device-bridge-mqtt-client
+1762221526: Received PINGREQ from device-bridge-mqtt-client
+1762221526: Sending PINGRESP to device-bridge-mqtt-client
+1762221586: Received PINGREQ from device-bridge-mqtt-client
+1762221586: Sending PINGRESP to device-bridge-mqtt-client
+1762221589: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762221646: Received PINGREQ from device-bridge-mqtt-client
+1762221646: Sending PINGRESP to device-bridge-mqtt-client
+1762221706: Received PINGREQ from device-bridge-mqtt-client
+1762221706: Sending PINGRESP to device-bridge-mqtt-client
+1762221766: Received PINGREQ from device-bridge-mqtt-client
+1762221766: Sending PINGRESP to device-bridge-mqtt-client
+1762221826: Received PINGREQ from device-bridge-mqtt-client
+1762221826: Sending PINGRESP to device-bridge-mqtt-client
+1762221886: Received PINGREQ from device-bridge-mqtt-client
+1762221886: Sending PINGRESP to device-bridge-mqtt-client
+1762221946: Received PINGREQ from device-bridge-mqtt-client
+1762221946: Sending PINGRESP to device-bridge-mqtt-client
+1762222006: Received PINGREQ from device-bridge-mqtt-client
+1762222006: Sending PINGRESP to device-bridge-mqtt-client
+1762222066: Received PINGREQ from device-bridge-mqtt-client
+1762222066: Sending PINGRESP to device-bridge-mqtt-client
+1762222126: Received PINGREQ from device-bridge-mqtt-client
+1762222126: Sending PINGRESP to device-bridge-mqtt-client
+1762222186: Received PINGREQ from device-bridge-mqtt-client
+1762222186: Sending PINGRESP to device-bridge-mqtt-client
+1762222246: Received PINGREQ from device-bridge-mqtt-client
+1762222246: Sending PINGRESP to device-bridge-mqtt-client
+1762222306: Received PINGREQ from device-bridge-mqtt-client
+1762222306: Sending PINGRESP to device-bridge-mqtt-client
+1762222366: Received PINGREQ from device-bridge-mqtt-client
+1762222366: Sending PINGRESP to device-bridge-mqtt-client
+1762222426: Received PINGREQ from device-bridge-mqtt-client
+1762222426: Sending PINGRESP to device-bridge-mqtt-client
+1762222486: Received PINGREQ from device-bridge-mqtt-client
+1762222486: Sending PINGRESP to device-bridge-mqtt-client
+1762222546: Received PINGREQ from device-bridge-mqtt-client
+1762222546: Sending PINGRESP to device-bridge-mqtt-client
+1762222606: Received PINGREQ from device-bridge-mqtt-client
+1762222606: Sending PINGRESP to device-bridge-mqtt-client
+1762222666: Received PINGREQ from device-bridge-mqtt-client
+1762222666: Sending PINGRESP to device-bridge-mqtt-client
+1762222726: Received PINGREQ from device-bridge-mqtt-client
+1762222726: Sending PINGRESP to device-bridge-mqtt-client
+1762222786: Received PINGREQ from device-bridge-mqtt-client
+1762222786: Sending PINGRESP to device-bridge-mqtt-client
+1762222846: Received PINGREQ from device-bridge-mqtt-client
+1762222846: Sending PINGRESP to device-bridge-mqtt-client
+1762222906: Received PINGREQ from device-bridge-mqtt-client
+1762222906: Sending PINGRESP to device-bridge-mqtt-client
+1762222966: Received PINGREQ from device-bridge-mqtt-client
+1762222966: Sending PINGRESP to device-bridge-mqtt-client
+1762223026: Received PINGREQ from device-bridge-mqtt-client
+1762223026: Sending PINGRESP to device-bridge-mqtt-client
+1762223086: Received PINGREQ from device-bridge-mqtt-client
+1762223086: Sending PINGRESP to device-bridge-mqtt-client
+1762223146: Received PINGREQ from device-bridge-mqtt-client
+1762223146: Sending PINGRESP to device-bridge-mqtt-client
+1762223206: Received PINGREQ from device-bridge-mqtt-client
+1762223206: Sending PINGRESP to device-bridge-mqtt-client
+1762223266: Received PINGREQ from device-bridge-mqtt-client
+1762223266: Sending PINGRESP to device-bridge-mqtt-client
+1762223326: Received PINGREQ from device-bridge-mqtt-client
+1762223326: Sending PINGRESP to device-bridge-mqtt-client
+1762223386: Received PINGREQ from device-bridge-mqtt-client
+1762223386: Sending PINGRESP to device-bridge-mqtt-client
+1762223390: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762223446: Received PINGREQ from device-bridge-mqtt-client
+1762223446: Sending PINGRESP to device-bridge-mqtt-client
+1762223506: Received PINGREQ from device-bridge-mqtt-client
+1762223506: Sending PINGRESP to device-bridge-mqtt-client
+1762223566: Received PINGREQ from device-bridge-mqtt-client
+1762223566: Sending PINGRESP to device-bridge-mqtt-client
+1762223626: Received PINGREQ from device-bridge-mqtt-client
+1762223626: Sending PINGRESP to device-bridge-mqtt-client
+1762223686: Received PINGREQ from device-bridge-mqtt-client
+1762223686: Sending PINGRESP to device-bridge-mqtt-client
+1762223746: Received PINGREQ from device-bridge-mqtt-client
+1762223746: Sending PINGRESP to device-bridge-mqtt-client
+1762223806: Received PINGREQ from device-bridge-mqtt-client
+1762223806: Sending PINGRESP to device-bridge-mqtt-client
+1762223866: Received PINGREQ from device-bridge-mqtt-client
+1762223866: Sending PINGRESP to device-bridge-mqtt-client
+1762223926: Received PINGREQ from device-bridge-mqtt-client
+1762223926: Sending PINGRESP to device-bridge-mqtt-client
+1762223986: Received PINGREQ from device-bridge-mqtt-client
+1762223986: Sending PINGRESP to device-bridge-mqtt-client
+1762224046: Received PINGREQ from device-bridge-mqtt-client
+1762224046: Sending PINGRESP to device-bridge-mqtt-client
+1762224106: Received PINGREQ from device-bridge-mqtt-client
+1762224106: Sending PINGRESP to device-bridge-mqtt-client
+1762224166: Received PINGREQ from device-bridge-mqtt-client
+1762224166: Sending PINGRESP to device-bridge-mqtt-client
+1762224226: Received PINGREQ from device-bridge-mqtt-client
+1762224226: Sending PINGRESP to device-bridge-mqtt-client
+1762224286: Received PINGREQ from device-bridge-mqtt-client
+1762224286: Sending PINGRESP to device-bridge-mqtt-client
+1762224346: Received PINGREQ from device-bridge-mqtt-client
+1762224346: Sending PINGRESP to device-bridge-mqtt-client
+1762224406: Received PINGREQ from device-bridge-mqtt-client
+1762224406: Sending PINGRESP to device-bridge-mqtt-client
+1762224466: Received PINGREQ from device-bridge-mqtt-client
+1762224466: Sending PINGRESP to device-bridge-mqtt-client
+1762224526: Received PINGREQ from device-bridge-mqtt-client
+1762224526: Sending PINGRESP to device-bridge-mqtt-client
+1762224587: Received PINGREQ from device-bridge-mqtt-client
+1762224587: Sending PINGRESP to device-bridge-mqtt-client
+1762224647: Received PINGREQ from device-bridge-mqtt-client
+1762224647: Sending PINGRESP to device-bridge-mqtt-client
+1762224707: Received PINGREQ from device-bridge-mqtt-client
+1762224707: Sending PINGRESP to device-bridge-mqtt-client
+1762224767: Received PINGREQ from device-bridge-mqtt-client
+1762224767: Sending PINGRESP to device-bridge-mqtt-client
+1762224827: Received PINGREQ from device-bridge-mqtt-client
+1762224827: Sending PINGRESP to device-bridge-mqtt-client
+1762224887: Received PINGREQ from device-bridge-mqtt-client
+1762224887: Sending PINGRESP to device-bridge-mqtt-client
+1762224947: Received PINGREQ from device-bridge-mqtt-client
+1762224947: Sending PINGRESP to device-bridge-mqtt-client
+1762225007: Received PINGREQ from device-bridge-mqtt-client
+1762225007: Sending PINGRESP to device-bridge-mqtt-client
+1762225067: Received PINGREQ from device-bridge-mqtt-client
+1762225067: Sending PINGRESP to device-bridge-mqtt-client
+1762225127: Received PINGREQ from device-bridge-mqtt-client
+1762225127: Sending PINGRESP to device-bridge-mqtt-client
+1762225187: Received PINGREQ from device-bridge-mqtt-client
+1762225187: Sending PINGRESP to device-bridge-mqtt-client
+1762225191: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762225247: Received PINGREQ from device-bridge-mqtt-client
+1762225247: Sending PINGRESP to device-bridge-mqtt-client
+1762225307: Received PINGREQ from device-bridge-mqtt-client
+1762225307: Sending PINGRESP to device-bridge-mqtt-client
+1762225367: Received PINGREQ from device-bridge-mqtt-client
+1762225367: Sending PINGRESP to device-bridge-mqtt-client
+1762225427: Received PINGREQ from device-bridge-mqtt-client
+1762225427: Sending PINGRESP to device-bridge-mqtt-client
+1762225487: Received PINGREQ from device-bridge-mqtt-client
+1762225487: Sending PINGRESP to device-bridge-mqtt-client
+1762225547: Received PINGREQ from device-bridge-mqtt-client
+1762225547: Sending PINGRESP to device-bridge-mqtt-client
+1762225607: Received PINGREQ from device-bridge-mqtt-client
+1762225607: Sending PINGRESP to device-bridge-mqtt-client
+1762225667: Received PINGREQ from device-bridge-mqtt-client
+1762225667: Sending PINGRESP to device-bridge-mqtt-client
+1762225727: Received PINGREQ from device-bridge-mqtt-client
+1762225727: Sending PINGRESP to device-bridge-mqtt-client
+1762225787: Received PINGREQ from device-bridge-mqtt-client
+1762225787: Sending PINGRESP to device-bridge-mqtt-client
+1762225847: Received PINGREQ from device-bridge-mqtt-client
+1762225847: Sending PINGRESP to device-bridge-mqtt-client
+1762225907: Received PINGREQ from device-bridge-mqtt-client
+1762225907: Sending PINGRESP to device-bridge-mqtt-client
+1762225967: Received PINGREQ from device-bridge-mqtt-client
+1762225967: Sending PINGRESP to device-bridge-mqtt-client
+1762226027: Received PINGREQ from device-bridge-mqtt-client
+1762226027: Sending PINGRESP to device-bridge-mqtt-client
+1762226087: Received PINGREQ from device-bridge-mqtt-client
+1762226087: Sending PINGRESP to device-bridge-mqtt-client
+1762226147: Received PINGREQ from device-bridge-mqtt-client
+1762226147: Sending PINGRESP to device-bridge-mqtt-client
+1762226207: Received PINGREQ from device-bridge-mqtt-client
+1762226207: Sending PINGRESP to device-bridge-mqtt-client
+1762226267: Received PINGREQ from device-bridge-mqtt-client
+1762226267: Sending PINGRESP to device-bridge-mqtt-client
+1762226327: Received PINGREQ from device-bridge-mqtt-client
+1762226327: Sending PINGRESP to device-bridge-mqtt-client
+1762226387: Received PINGREQ from device-bridge-mqtt-client
+1762226387: Sending PINGRESP to device-bridge-mqtt-client
+1762226447: Received PINGREQ from device-bridge-mqtt-client
+1762226447: Sending PINGRESP to device-bridge-mqtt-client
+1762226507: Received PINGREQ from device-bridge-mqtt-client
+1762226507: Sending PINGRESP to device-bridge-mqtt-client
+1762226567: Received PINGREQ from device-bridge-mqtt-client
+1762226567: Sending PINGRESP to device-bridge-mqtt-client
+1762226627: Received PINGREQ from device-bridge-mqtt-client
+1762226627: Sending PINGRESP to device-bridge-mqtt-client
+1762226687: Received PINGREQ from device-bridge-mqtt-client
+1762226687: Sending PINGRESP to device-bridge-mqtt-client
+1762226747: Received PINGREQ from device-bridge-mqtt-client
+1762226747: Sending PINGRESP to device-bridge-mqtt-client
+1762226807: Received PINGREQ from device-bridge-mqtt-client
+1762226807: Sending PINGRESP to device-bridge-mqtt-client
+1762226867: Received PINGREQ from device-bridge-mqtt-client
+1762226867: Sending PINGRESP to device-bridge-mqtt-client
+1762226927: Received PINGREQ from device-bridge-mqtt-client
+1762226927: Sending PINGRESP to device-bridge-mqtt-client
+1762226987: Received PINGREQ from device-bridge-mqtt-client
+1762226987: Sending PINGRESP to device-bridge-mqtt-client
+1762226992: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762227047: Received PINGREQ from device-bridge-mqtt-client
+1762227047: Sending PINGRESP to device-bridge-mqtt-client
+1762227107: Received PINGREQ from device-bridge-mqtt-client
+1762227107: Sending PINGRESP to device-bridge-mqtt-client
+1762227167: Received PINGREQ from device-bridge-mqtt-client
+1762227167: Sending PINGRESP to device-bridge-mqtt-client
+1762227227: Received PINGREQ from device-bridge-mqtt-client
+1762227227: Sending PINGRESP to device-bridge-mqtt-client
+1762227287: Received PINGREQ from device-bridge-mqtt-client
+1762227287: Sending PINGRESP to device-bridge-mqtt-client
+1762227347: Received PINGREQ from device-bridge-mqtt-client
+1762227347: Sending PINGRESP to device-bridge-mqtt-client
+1762227407: Received PINGREQ from device-bridge-mqtt-client
+1762227407: Sending PINGRESP to device-bridge-mqtt-client
+1762227467: Received PINGREQ from device-bridge-mqtt-client
+1762227467: Sending PINGRESP to device-bridge-mqtt-client
+1762227527: Received PINGREQ from device-bridge-mqtt-client
+1762227527: Sending PINGRESP to device-bridge-mqtt-client
+1762227587: Received PINGREQ from device-bridge-mqtt-client
+1762227587: Sending PINGRESP to device-bridge-mqtt-client
+1762227647: Received PINGREQ from device-bridge-mqtt-client
+1762227647: Sending PINGRESP to device-bridge-mqtt-client
+1762227707: Received PINGREQ from device-bridge-mqtt-client
+1762227707: Sending PINGRESP to device-bridge-mqtt-client
+1762227767: Received PINGREQ from device-bridge-mqtt-client
+1762227767: Sending PINGRESP to device-bridge-mqtt-client
+1762227827: Received PINGREQ from device-bridge-mqtt-client
+1762227827: Sending PINGRESP to device-bridge-mqtt-client
+1762227887: Received PINGREQ from device-bridge-mqtt-client
+1762227887: Sending PINGRESP to device-bridge-mqtt-client
+1762227947: Received PINGREQ from device-bridge-mqtt-client
+1762227947: Sending PINGRESP to device-bridge-mqtt-client
+1762228007: Received PINGREQ from device-bridge-mqtt-client
+1762228007: Sending PINGRESP to device-bridge-mqtt-client
+1762228067: Received PINGREQ from device-bridge-mqtt-client
+1762228067: Sending PINGRESP to device-bridge-mqtt-client
+1762228127: Received PINGREQ from device-bridge-mqtt-client
+1762228127: Sending PINGRESP to device-bridge-mqtt-client
+1762228187: Received PINGREQ from device-bridge-mqtt-client
+1762228187: Sending PINGRESP to device-bridge-mqtt-client
+1762228247: Received PINGREQ from device-bridge-mqtt-client
+1762228247: Sending PINGRESP to device-bridge-mqtt-client
+1762228307: Received PINGREQ from device-bridge-mqtt-client
+1762228307: Sending PINGRESP to device-bridge-mqtt-client
+1762228367: Received PINGREQ from device-bridge-mqtt-client
+1762228367: Sending PINGRESP to device-bridge-mqtt-client
+1762228427: Received PINGREQ from device-bridge-mqtt-client
+1762228427: Sending PINGRESP to device-bridge-mqtt-client
+1762228487: Received PINGREQ from device-bridge-mqtt-client
+1762228487: Sending PINGRESP to device-bridge-mqtt-client
+1762228547: Received PINGREQ from device-bridge-mqtt-client
+1762228547: Sending PINGRESP to device-bridge-mqtt-client
+1762228607: Received PINGREQ from device-bridge-mqtt-client
+1762228607: Sending PINGRESP to device-bridge-mqtt-client
+1762228667: Received PINGREQ from device-bridge-mqtt-client
+1762228667: Sending PINGRESP to device-bridge-mqtt-client
+1762228727: Received PINGREQ from device-bridge-mqtt-client
+1762228727: Sending PINGRESP to device-bridge-mqtt-client
+1762228787: Received PINGREQ from device-bridge-mqtt-client
+1762228787: Sending PINGRESP to device-bridge-mqtt-client
+1762228793: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762228847: Received PINGREQ from device-bridge-mqtt-client
+1762228847: Sending PINGRESP to device-bridge-mqtt-client
+1762228907: Received PINGREQ from device-bridge-mqtt-client
+1762228907: Sending PINGRESP to device-bridge-mqtt-client
+1762228967: Received PINGREQ from device-bridge-mqtt-client
+1762228967: Sending PINGRESP to device-bridge-mqtt-client
+1762229027: Received PINGREQ from device-bridge-mqtt-client
+1762229027: Sending PINGRESP to device-bridge-mqtt-client
+1762229087: Received PINGREQ from device-bridge-mqtt-client
+1762229087: Sending PINGRESP to device-bridge-mqtt-client
+1762229147: Received PINGREQ from device-bridge-mqtt-client
+1762229147: Sending PINGRESP to device-bridge-mqtt-client
+1762229207: Received PINGREQ from device-bridge-mqtt-client
+1762229207: Sending PINGRESP to device-bridge-mqtt-client
+1762229267: Received PINGREQ from device-bridge-mqtt-client
+1762229267: Sending PINGRESP to device-bridge-mqtt-client
+1762229327: Received PINGREQ from device-bridge-mqtt-client
+1762229327: Sending PINGRESP to device-bridge-mqtt-client
+1762229387: Received PINGREQ from device-bridge-mqtt-client
+1762229387: Sending PINGRESP to device-bridge-mqtt-client
+1762229447: Received PINGREQ from device-bridge-mqtt-client
+1762229447: Sending PINGRESP to device-bridge-mqtt-client
+1762229507: Received PINGREQ from device-bridge-mqtt-client
+1762229507: Sending PINGRESP to device-bridge-mqtt-client
+1762229567: Received PINGREQ from device-bridge-mqtt-client
+1762229567: Sending PINGRESP to device-bridge-mqtt-client
+1762229627: Received PINGREQ from device-bridge-mqtt-client
+1762229627: Sending PINGRESP to device-bridge-mqtt-client
+1762229687: Received PINGREQ from device-bridge-mqtt-client
+1762229687: Sending PINGRESP to device-bridge-mqtt-client
+1762229747: Received PINGREQ from device-bridge-mqtt-client
+1762229747: Sending PINGRESP to device-bridge-mqtt-client
+1762229807: Received PINGREQ from device-bridge-mqtt-client
+1762229807: Sending PINGRESP to device-bridge-mqtt-client
+1762229867: Received PINGREQ from device-bridge-mqtt-client
+1762229867: Sending PINGRESP to device-bridge-mqtt-client
+1762229927: Received PINGREQ from device-bridge-mqtt-client
+1762229927: Sending PINGRESP to device-bridge-mqtt-client
+1762229928: Received DISCONNECT from device-bridge-mqtt-client
+1762229928: Client device-bridge-mqtt-client disconnected.
+1762230594: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762232395: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762234196: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762235997: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762237799: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762239600: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762241401: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762243202: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762245003: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762246804: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762248605: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762250406: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762252207: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762254008: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762255805: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762257606: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762259407: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762261212: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762263013: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762264814: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762266615: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762268416: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762270217: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762275065: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762293121: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762302559: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762304694: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762306495: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762308296: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762310097: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762311898: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762313699: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762315500: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762317301: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762319102: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762320903: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762322705: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762324506: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762326304: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762328108: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762329907: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762331710: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762333511: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762335312: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762337113: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762338914: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762340715: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762342516: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762344317: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762346118: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762347919: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762349720: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762351521: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762353322: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762355123: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762356924: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762358723: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762360524: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762362327: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762364128: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762365929: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762367730: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762369531: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762371332: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762373133: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762374934: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762376735: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762378536: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762380337: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762382138: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762383939: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762385740: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762387541: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762389342: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762391143: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762392945: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762394745: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762396547: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762398348: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762400149: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762401950: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762403751: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762405552: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762407353: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762409154: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762410955: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762412756: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762414557: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762416358: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762418159: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762419960: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762421761: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762423562: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762425363: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762427164: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762428965: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762430766: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762432567: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762434368: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762436169: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762437970: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762439771: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762441572: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762443373: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762445174: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762446975: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762448776: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762450577: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762452378: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762454179: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762455980: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762457781: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762459582: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762461383: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762463184: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762464985: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762466786: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762468587: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762470388: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762472189: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762473990: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762475791: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762477592: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762479393: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762481194: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762482995: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762484796: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762486597: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762488398: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762490199: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762492000: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762493801: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762495602: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762497403: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762499204: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762501005: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762502806: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762504607: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762506408: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762508209: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762510010: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762511811: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762513612: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762515413: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762517214: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762519015: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762520816: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762522617: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762524418: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762526219: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762528020: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762529821: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762531622: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762533423: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762535224: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762537025: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762538826: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762540627: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762542428: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762544229: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762546030: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762547831: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762549632: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762551433: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762553234: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762555035: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762556836: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762558637: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762560438: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762562239: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762564040: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762565841: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762567642: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762569443: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762571244: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762573045: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762574846: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762576645: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762578448: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762580249: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762582050: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762583851: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762585652: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762587453: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762589254: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762591055: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762592856: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762594657: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762596458: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762598259: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762600060: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762601861: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762603662: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762605463: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762607264: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762609065: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762610866: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762612667: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762614468: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762616269: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762618070: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762619871: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762621672: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762623473: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762625274: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762627075: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762628876: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762630677: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762632478: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762634279: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762636080: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762637881: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762639682: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762641483: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762643284: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762645085: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762646886: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762648687: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762650488: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762652289: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762654090: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762655891: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762660419: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762662220: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762664021: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762665822: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762667621: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762669424: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762671225: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762675758: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762677558: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762679359: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762681160: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762682961: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762684762: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762686564: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762688365: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762690165: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762691966: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762693767: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762695568: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762697370: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762699171: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762700971: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762702772: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762704574: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762706375: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762708176: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762709977: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762711778: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762713579: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762715380: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762717181: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762718982: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762720783: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762722584: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762724385: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762726186: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762727986: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762729788: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762731588: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762733389: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762735190: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762736991: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762738792: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762740593: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762742395: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762744195: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762745997: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762747798: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762749599: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762751400: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762753201: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762755002: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762756803: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762758604: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762760405: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762765912: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762767713: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762770591: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762772392: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762774995: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762824926: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1762826727: Saving in-memory database to /mosquitto/data//mosquitto.db.

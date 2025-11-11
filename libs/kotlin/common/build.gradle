@@ -24,10 +24,20 @@ dependencyManagement {
 }
 
 dependencies {
+	// Kotlin
 	implementation 'org.jetbrains.kotlin:kotlin-reflect'
+	
+	// Kafka
 	implementation 'org.springframework.kafka:spring-kafka'
+	
+	// Logging
 	implementation 'org.slf4j:slf4j-api'
 	
+	// Jackson - JSON 처리
+	implementation 'com.fasterxml.jackson.core:jackson-databind'
+	implementation 'com.fasterxml.jackson.module:jackson-module-kotlin'
+	
+	// Lombok
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
 }
